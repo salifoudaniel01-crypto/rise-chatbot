@@ -3,12 +3,67 @@
   "devise": "Rêve • Impact • Stratégie • Excellence",
   "vision": "Faire de la DAS une entité influente, unie et engagée, favorisant la réussite et l'épanouissement de chaque Analyste Statisticien.",
   "poles": [
-    { "id": "presidence", "nom": "Présidence", "porteur": "president", "projets": ["gbaki", "as_projet", "as_international"] },
-    { "id": "vice_presidence", "nom": "Vice-Présidence", "porteur": "vp", "projets": ["semaine_analyste", "journee_alumni", "site_web", "charisme_as"] },
-    { "id": "secretariat", "nom": "Secrétariat Général", "porteur": "sg", "projets": ["kit_pharmaceutique", "suivi_academique", "as_carriere", "bootcamp", "orientation_internationale", "bilan_trimestriel"] },
-    { "id": "communication", "nom": "Communication", "porteur": "comm", "projets": ["as_valorisation", "as_impact", "stat_insight"] },
-    { "id": "organisation", "nom": "Organisation", "porteur": "orga", "projets": ["evenements"] },
-    { "id": "finances", "nom": "Finances", "porteur": "finances", "projets": ["polo_das", "cotisation_aines"] }
+    {
+      "id": "presidence",
+      "nom": "Présidence",
+      "porteur": "president",
+      "projets": [
+        "gbaki",
+        "as_projet",
+        "as_international"
+      ]
+    },
+    {
+      "id": "vice_presidence",
+      "nom": "Vice-Présidence",
+      "porteur": "vp",
+      "projets": [
+        "semaine_analyste",
+        "journee_alumni",
+        "site_web",
+        "charisme_as"
+      ]
+    },
+    {
+      "id": "secretariat",
+      "nom": "Secrétariat Général",
+      "porteur": "sg",
+      "projets": [
+        "kit_pharmaceutique",
+        "suivi_academique",
+        "as_carriere",
+        "bootcamp",
+        "orientation_internationale",
+        "bilan_trimestriel"
+      ]
+    },
+    {
+      "id": "communication",
+      "nom": "Communication",
+      "porteur": "comm",
+      "projets": [
+        "as_valorisation",
+        "as_impact",
+        "stat_insight"
+      ]
+    },
+    {
+      "id": "organisation",
+      "nom": "Organisation",
+      "porteur": "orga",
+      "projets": [
+        "evenements"
+      ]
+    },
+    {
+      "id": "finances",
+      "nom": "Finances",
+      "porteur": "finances",
+      "projets": [
+        "polo_das",
+        "cotisation_aines"
+      ]
+    }
   ],
   "projets": [
     {
@@ -25,8 +80,30 @@
         "Boutique officielle DAS"
       ],
       "complement": "Gérée par le Président et une Commission Gbaki dédiée à la mise à jour continue, pour ne pas faire reposer le projet sur une seule personne.",
-      "keywords": ["gbaki", "application", "app", "plateforme", "ia", "ressources"],
-      "chips": ["Parle-moi d'AS Projet", "Qu'est-ce qu'AS International ?", "Présente le Président"]
+      "keywords": [
+        "gbaki",
+        "application",
+        "app",
+        "plateforme",
+        "ia",
+        "ressources",
+        "parle de gbaki",
+        "c est quoi gbaki",
+        "qu est ce que gbaki",
+        "presentation gbaki",
+        "mobile das",
+        "numerique das",
+        "parle moi de gbaki",
+        "decris gbaki",
+        "explique gbaki",
+        "projet gbaki",
+        "parle moi du projet gbaki"
+      ],
+      "chips": [
+        "Parle-moi d'AS Projet",
+        "Qu'est-ce qu'AS International ?",
+        "Présente le Président"
+      ]
     },
     {
       "id": "as_projet",
@@ -40,8 +117,19 @@
         "Hackathon final récompensant le meilleur projet"
       ],
       "complement": "Développer les compétences techniques et professionnelles des AS au-delà du cursus académique classique.",
-      "keywords": ["as projet", "as project", "hackathon", "projet", "competence", "formation pratique"],
-      "chips": ["Parle-moi d'AS International", "Qu'est-ce que Gbaki ?", "Présente le Président"]
+      "keywords": [
+        "as projet",
+        "as project",
+        "hackathon",
+        "projet",
+        "competence",
+        "formation pratique"
+      ],
+      "chips": [
+        "Parle-moi d'AS International",
+        "Qu'est-ce que Gbaki ?",
+        "Présente le Président"
+      ]
     },
     {
       "id": "as_international",
@@ -56,8 +144,19 @@
         "Informations régulières sur les opportunités mondiales"
       ],
       "complement": "Permettre à chaque AS d'envisager une carrière ou une formation à l'international, avec un accompagnement concret.",
-      "keywords": ["as international", "international", "bourse", "echange", "etranger", "partenariat"],
-      "chips": ["Parle-moi d'AS Projet", "C'est quoi Gbaki ?", "Orientation internationale avec la SG"]
+      "keywords": [
+        "as international",
+        "international",
+        "bourse",
+        "echange",
+        "etranger",
+        "partenariat"
+      ],
+      "chips": [
+        "Parle-moi d'AS Projet",
+        "C'est quoi Gbaki ?",
+        "Orientation internationale avec la SG"
+      ]
     },
     {
       "id": "semaine_analyste",
@@ -73,8 +172,17 @@
         "Partages d'expériences professionnelles"
       ],
       "complement": "Pour que les AS soient fiers de leur filière et que le reste de l'ENSEA la reconnaisse à sa juste valeur.",
-      "keywords": ["semaine", "semaine de l'analyste", "semaine analyste", "7 jours"],
-      "chips": ["Parle-moi de la Journée Alumni", "C'est quoi Charisme d'un AS ?", "Présente la VP"]
+      "keywords": [
+        "semaine",
+        "semaine de l'analyste",
+        "semaine analyste",
+        "7 jours"
+      ],
+      "chips": [
+        "Parle-moi de la Journée Alumni",
+        "C'est quoi Charisme d'un AS ?",
+        "Présente la VP"
+      ]
     },
     {
       "id": "journee_alumni",
@@ -88,8 +196,17 @@
         "Partage d'expérience"
       ],
       "complement": "Complémentaire de la Semaine de l'Analyste, qui valorise le métier en général ; la Journée Alumni crée un lien individuel autour du mentorat.",
-      "keywords": ["alumni", "journee alumni", "ancien", "mentorat"],
-      "chips": ["C'est quoi la Semaine de l'Analyste ?", "Présente la VP", "Qu'est-ce que Charisme d'un AS ?"]
+      "keywords": [
+        "alumni",
+        "journee alumni",
+        "ancien",
+        "mentorat"
+      ],
+      "chips": [
+        "C'est quoi la Semaine de l'Analyste ?",
+        "Présente la VP",
+        "Qu'est-ce que Charisme d'un AS ?"
+      ]
     },
     {
       "id": "site_web",
@@ -102,8 +219,17 @@
         "Professionnalise l'image de la filière"
       ],
       "complement": "Complémentaire de Gbaki : Gbaki est une plateforme applicative complète (ressources, IA, boutique, réseau) pilotée par la Présidence ; le site web est la vitrine institutionnelle publique pilotée par la Vice-Présidence.",
-      "keywords": ["site web", "site", "vitrine", "web das"],
-      "chips": ["C'est quoi Gbaki ?", "Présente la VP", "Parle-moi de la Semaine de l'Analyste"]
+      "keywords": [
+        "site web",
+        "site",
+        "vitrine",
+        "web das"
+      ],
+      "chips": [
+        "C'est quoi Gbaki ?",
+        "Présente la VP",
+        "Parle-moi de la Semaine de l'Analyste"
+      ]
     },
     {
       "id": "charisme_as",
@@ -117,8 +243,18 @@
         "Vote public de la communauté AS"
       ],
       "complement": "Créer une culture de l'excellence et encourager l'engagement au sein de la DAS.",
-      "keywords": ["charisme", "charisme d'un as", "distinction", "honneur", "dynamisme"],
-      "chips": ["Parle-moi de la Semaine de l'Analyste", "Présente la VP", "Journée Alumni"]
+      "keywords": [
+        "charisme",
+        "charisme d'un as",
+        "distinction",
+        "honneur",
+        "dynamisme"
+      ],
+      "chips": [
+        "Parle-moi de la Semaine de l'Analyste",
+        "Présente la VP",
+        "Journée Alumni"
+      ]
     },
     {
       "id": "kit_pharmaceutique",
@@ -132,8 +268,19 @@
         "Accessible à tous les membres de la DAS en cas de besoin"
       ],
       "complement": "Complément de premier secours géré au niveau de la Division, pas un remplacement de l'infirmerie de l'école.",
-      "keywords": ["kit pharmaceutique", "pharmacie", "sante", "medical", "kit", "medicament"],
-      "chips": ["Présente la Secrétaire Générale", "Parle-moi d'AS Carrière", "Présente le programme"]
+      "keywords": [
+        "kit pharmaceutique",
+        "pharmacie",
+        "sante",
+        "medical",
+        "kit",
+        "medicament"
+      ],
+      "chips": [
+        "Présente la Secrétaire Générale",
+        "Parle-moi d'AS Carrière",
+        "Présente le programme"
+      ]
     },
     {
       "id": "suivi_academique",
@@ -146,8 +293,17 @@
         "Orientation vers l'aide adaptée"
       ],
       "complement": "Routine fixe du pôle Secrétariat Général dès le début du mandat, pas une action ponctuelle.",
-      "keywords": ["suivi academique", "academique", "difficulte", "soutien"],
-      "chips": ["Présente la Secrétaire Générale", "Qu'est-ce que le kit pharmaceutique ?", "Parle-moi d'AS Carrière"]
+      "keywords": [
+        "suivi academique",
+        "academique",
+        "difficulte",
+        "soutien"
+      ],
+      "chips": [
+        "Présente la Secrétaire Générale",
+        "Qu'est-ce que le kit pharmaceutique ?",
+        "Parle-moi d'AS Carrière"
+      ]
     },
     {
       "id": "as_carriere",
@@ -162,8 +318,21 @@
         "Développement du réseau alumni professionnel"
       ],
       "complement": null,
-      "keywords": ["carriere", "as carriere", "stage", "emploi", "recrutement", "professionnel", "insertion", "job"],
-      "chips": ["Parle-moi de l'orientation internationale", "Présente la Secrétaire Générale", "Parle-moi d'AS International"]
+      "keywords": [
+        "carriere",
+        "as carriere",
+        "stage",
+        "emploi",
+        "recrutement",
+        "professionnel",
+        "insertion",
+        "job"
+      ],
+      "chips": [
+        "Parle-moi de l'orientation internationale",
+        "Présente la Secrétaire Générale",
+        "Parle-moi d'AS International"
+      ]
     },
     {
       "id": "bootcamp",
@@ -171,10 +340,20 @@
       "pole": "secretariat",
       "porteur": "sg",
       "description": "Programme d'accueil en début de mandat pour aider les nouveaux AS à démarrer sereinement.",
-      "details": ["Repères académiques et sociaux dès le début du mandat"],
+      "details": [
+        "Repères académiques et sociaux dès le début du mandat"
+      ],
       "complement": "Réduire le temps d'adaptation des AS1.",
-      "keywords": ["bootcamp", "integration", "accueil", "nouveaux as"],
-      "chips": ["Présente la Secrétaire Générale", "Parle-moi du Bizutage du Garba"]
+      "keywords": [
+        "bootcamp",
+        "integration",
+        "accueil",
+        "nouveaux as"
+      ],
+      "chips": [
+        "Présente la Secrétaire Générale",
+        "Parle-moi du Bizutage du Garba"
+      ]
     },
     {
       "id": "orientation_internationale",
@@ -182,10 +361,21 @@
       "pole": "secretariat",
       "porteur": "sg",
       "description": "Information sur les écoles en Europe, Amérique et Afrique, pilotée par la Secrétaire Générale.",
-      "details": ["Identification et diffusion d'opportunités de bourses et d'échanges"],
+      "details": [
+        "Identification et diffusion d'opportunités de bourses et d'échanges"
+      ],
       "complement": null,
-      "keywords": ["orientation internationale", "ecoles etranger", "europe", "amerique", "afrique"],
-      "chips": ["Parle-moi d'AS Carrière", "Présente la Secrétaire Générale"]
+      "keywords": [
+        "orientation internationale",
+        "ecoles etranger",
+        "europe",
+        "amerique",
+        "afrique"
+      ],
+      "chips": [
+        "Parle-moi d'AS Carrière",
+        "Présente la Secrétaire Générale"
+      ]
     },
     {
       "id": "bilan_trimestriel",
@@ -193,10 +383,21 @@
       "pole": "secretariat",
       "porteur": "sg",
       "description": "Rapport PDF de suivi académique et d'avancement, publié chaque trimestre.",
-      "details": ["Outil de transparence", "Partagé avec les étudiants pour visualiser la progression réelle"],
+      "details": [
+        "Outil de transparence",
+        "Partagé avec les étudiants pour visualiser la progression réelle"
+      ],
       "complement": "Mécanisme vérifiable de redevabilité : juger RISE sur les faits publiés, pas sur les seules promesses de départ.",
-      "keywords": ["bilan trimestriel", "rapport", "transparence", "suivi"],
-      "chips": ["Présente la Secrétaire Générale", "Pourquoi vous faire confiance ?"]
+      "keywords": [
+        "bilan trimestriel",
+        "rapport",
+        "transparence",
+        "suivi"
+      ],
+      "chips": [
+        "Présente la Secrétaire Générale",
+        "Pourquoi vous faire confiance ?"
+      ]
     },
     {
       "id": "stat_insight",
@@ -212,8 +413,18 @@
         "Quiz statistiques interactifs"
       ],
       "complement": null,
-      "keywords": ["stat insight", "as insight", "statistique", "chiffre de la semaine", "vulgarisation"],
-      "chips": ["Parle-moi d'AS Impact", "C'est quoi AS Valorisation ?", "Présente le Chargé Communication"]
+      "keywords": [
+        "stat insight",
+        "parle de stat insight",
+        "c est quoi stat insight",
+        "semaine statistique",
+        "vulgarisation statistique"
+      ],
+      "chips": [
+        "Parle-moi d'AS Impact",
+        "C'est quoi AS Valorisation ?",
+        "Présente le Chargé Communication"
+      ]
     },
     {
       "id": "as_impact",
@@ -228,8 +439,18 @@
         "Campagne \"Pourquoi choisir AS ?\" sur les réseaux"
       ],
       "complement": null,
-      "keywords": ["as impact", "impact", "lycee", "jeunes africains", "ambassadeur"],
-      "chips": ["Parle-moi d'AS Valorisation", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"]
+      "keywords": [
+        "as impact",
+        "parle de as impact",
+        "c est quoi as impact",
+        "responsabilite sociale",
+        "impact as"
+      ],
+      "chips": [
+        "Parle-moi d'AS Valorisation",
+        "C'est quoi Stat Insight ?",
+        "Présente le Chargé Communication"
+      ]
     },
     {
       "id": "as_valorisation",
@@ -245,8 +466,17 @@
         "Valorisation des certifications et projets"
       ],
       "complement": null,
-      "keywords": ["as valorisation", "valorisation", "portrait", "hall of fame", "excellence", "prix"],
-      "chips": ["Parle-moi d'AS Impact", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"]
+      "keywords": [
+        "as valorisation",
+        "parle de as valorisation",
+        "c est quoi as valorisation",
+        "valoriser analyste"
+      ],
+      "chips": [
+        "Parle-moi d'AS Impact",
+        "C'est quoi Stat Insight ?",
+        "Présente le Chargé Communication"
+      ]
     },
     {
       "id": "evenements",
@@ -267,8 +497,23 @@
         "Sortie Zoo / Picnic Color Party"
       ],
       "complement": "Réparti sur l'année entière pour couvrir intégration, cohésion, sport et clôture, sans concentrer la charge à un seul moment.",
-      "keywords": ["gala", "bizutage", "akwaba", "barbecue", "sportive", "zoo", "picnic", "8 mars", "journee", "assemblee"],
-      "chips": ["Présente la Chargée Organisation", "Parle-moi du programme", "Pourquoi voter RISE ?"]
+      "keywords": [
+        "gala",
+        "bizutage",
+        "akwaba",
+        "barbecue",
+        "sportive",
+        "zoo",
+        "picnic",
+        "8 mars",
+        "journee",
+        "assemblee"
+      ],
+      "chips": [
+        "Présente la Chargée Organisation",
+        "Parle-moi du programme",
+        "Pourquoi voter RISE ?"
+      ]
     },
     {
       "id": "polo_das",
@@ -283,8 +528,17 @@
         "Gadgets officiels DAS"
       ],
       "complement": null,
-      "keywords": ["polo", "cardigan", "vendredi polo", "gadget"],
-      "chips": ["Présente le programme", "Contacter le bureau", "Pourquoi voter RISE ?"]
+      "keywords": [
+        "polo",
+        "cardigan",
+        "vendredi polo",
+        "gadget"
+      ],
+      "chips": [
+        "Présente le programme",
+        "Contacter le bureau",
+        "Pourquoi voter RISE ?"
+      ]
     },
     {
       "id": "cotisation_aines",
@@ -297,8 +551,17 @@
         "Recherche active de financements complémentaires pilotée par le pôle Finances"
       ],
       "complement": "Le montant n'est jamais cité publiquement pour les cotisations non encore définies ; rester factuel sur ce qui est déjà chiffré.",
-      "keywords": ["cotisation", "aines", "financement", "budget", "argent"],
-      "chips": ["Présente le programme", "Comment allez-vous financer cela ?"]
+      "keywords": [
+        "cotisation",
+        "aines",
+        "financement",
+        "budget",
+        "argent"
+      ],
+      "chips": [
+        "Présente le programme",
+        "Comment allez-vous financer cela ?"
+      ]
     }
   ]
 }

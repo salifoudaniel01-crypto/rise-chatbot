@@ -159,12 +159,29 @@ function keywordRegex(nkw) {
   return _kwRegexCache[nkw];
 }
 
+// Mots-clés trop génériques : quand ils apparaissent dans une OBJECTION,
+// leur contribution est divisée par 4 pour éviter que les objections
+// "volent" des questions destinées aux projets/FAQ via des mots communs
+// comme "projet", "programme", "pourquoi", "comment", etc.
+const GENERIC_KW = new Set([
+  'projet', 'projets', 'programme', 'programmes', 'action', 'actions',
+  'pourquoi', 'comment', 'bureau', 'rise', 'das', 'ensea', 'concret',
+  'concrets', 'concrete', 'concretes', 'prevu', 'prevus', 'prevue',
+  'tout', 'trop', 'vrai', 'vraiment', 'bien', 'faire', 'aller'
+]);
+
 function scoreEntry(nq, entry) {
   let score = 0;
+  const isObjection = entry.type === 'objection';
   for (const kw of entry.keywords) {
     const nkw = normalize(kw);
     if (nkw.length > 2 && keywordRegex(nkw).test(nq)) {
-      score += (IDF[kw] || 1) * (nkw.split(' ').length); // bonus mots-clés composés
+      // Les mots composés (2+ mots) restent toujours à plein poids :
+      // "stat insight", "pourquoi voter" sont des kw spécifiques même dans les objections.
+      const isComposed = nkw.split(' ').length >= 2;
+      const isGeneric = !isComposed && GENERIC_KW.has(nkw);
+      const weight = (isObjection && isGeneric) ? 0.25 : 1;
+      score += (IDF[kw] || 1) * (nkw.split(' ').length) * weight;
     }
   }
   return score;
