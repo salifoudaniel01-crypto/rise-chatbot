@@ -174,15 +174,50 @@ function scoreEntry(nq, entry) {
 // "gagner" par défaut dès qu'aucun autre résultat ne fait mieux que 0.
 const MIN_CONFIDENT_SCORE = 2.6;
 
+// Priorité de type utilisée UNIQUEMENT pour départager deux entrées qui ont
+// un score strictement égal ET dont l'égalité est jugée "résolvable" (cf.
+// hasSpecificMatch ci-dessous). Ex : un projet et une FAQ qui parlent du même
+// sujet avec les mêmes mots-clés, comme "Stat Insight" — pas une vraie
+// ambiguïté de sujet, juste un doublon de contenu.
+const TYPE_PRIORITY = { projet: 4, membre: 3, faqQ: 2, objection: 1 };
+
+function getMatchedKeywords(nq, entry) {
+  return entry.keywords.filter(kw => {
+    const nkw = normalize(kw);
+    return nkw.length > 2 && keywordRegex(nkw).test(nq);
+  });
+}
+
 function searchKB(rawQuery) {
   const nq = normalize(rawQuery);
-  let best = null, bestScore = 0, second = 0;
+
+  // 1. On score TOUTES les entrées qui matchent au moins un mot-clé.
+  const scored = [];
   for (const entry of INDEX) {
     const s = scoreEntry(nq, entry);
-    if (s > bestScore) { second = bestScore; bestScore = s; best = entry; }
-    else if (s > second) { second = s; }
+    if (s > 0) scored.push({ entry, s });
   }
-  // Confiance : score suffisant en absolu ET nettement au-dessus du 2e résultat
+  if (!scored.length) return { best: null, bestScore: 0, second: 0, confident: false };
+
+  // 2. Tri par score décroissant, puis par priorité de type en cas d'égalité
+  //    exacte (départage déterministe, pas aléatoire selon l'ordre du JSON).
+  scored.sort((a, b) => b.s - a.s || (TYPE_PRIORITY[b.entry.type] || 0) - (TYPE_PRIORITY[a.entry.type] || 0));
+
+  const bestScore = scored[0].s;
+  const best = scored[0].entry;
+  const tiedAtTop = scored.filter(c => c.s === bestScore);
+  const distinctNext = scored.find(c => c.s < bestScore);
+  const secondDistinct = distinctNext ? distinctNext.s : 0;
+
+  // 3. Une égalité n'est traitée comme un simple "doublon de contenu" (donc
+  //    résolvable sans perte de confiance) que si elle s'appuie sur au moins
+  //    un mot-clé COMPOSÉ (2+ mots, ex: "stat insight") — signe d'une vraie
+  //    spécificité thématique. Si l'égalité ne tient qu'à un mot-clé générique
+  //    isolé (ex: "rapport"), on reste prudent : l'égalité bloque la confiance,
+  //    comme avant. Ça évite qu'une question hors-sujet "gagne" par coïncidence.
+  const hasSpecificMatch = getMatchedKeywords(nq, best).some(kw => normalize(kw).split(' ').length >= 2);
+  const second = (tiedAtTop.length > 1 && !hasSpecificMatch) ? bestScore : secondDistinct;
+
   const CONFIDENT = bestScore >= MIN_CONFIDENT_SCORE && bestScore >= second * 1.05;
   return { best, bestScore, second, confident: CONFIDENT };
 }
