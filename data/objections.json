@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 204,
+  "count": 203,
   "items": [
     {
       "id": "comprehension-036",
@@ -276,18 +276,6 @@
         "vote",
         "assemblee",
         "generale"
-      ]
-    },
-    {
-      "id": "comprehension-058",
-      "category": "comprehension",
-      "question": "Quel est le rôle des Ambassadeurs Stats dans AS Impact ?",
-      "answer": "Représenter la filière AS dans 3 à 5 lycées par an pour susciter des vocations chez les jeunes.",
-      "keywords": [
-        "role",
-        "ambassadeurs",
-        "stats",
-        "impact"
       ]
     },
     {
