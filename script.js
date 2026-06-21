@@ -94,8 +94,11 @@ function tryContactIntent(nq) {
 }
 
 function tryCandidateOverview(nq) {
-  if (!/candidat|bureau|equipe|^liste$| liste |membre|tout le bureau|presente le bureau/.test(nq)) return null;
   if (/contact/.test(nq)) return null; // déjà géré par tryContactIntent
+  const explicit = /(qui sont les candidats|presente (tous les candidats|le bureau|les candidats du bureau|toute l.equipe)|liste des candidats|tout le bureau|membres du bureau|composition du bureau|qui compose (le bureau|la liste))/;
+  const isShortGeneric = nq.split(' ').length <= 6 && /\b(candidats?|bureau|equipe|membres)\b/.test(nq);
+  if (!explicit.test(nq) && !isShortGeneric) return null;
+
   const lines = Object.values(CANDIDATS.membres)
     .map(m => `• **${m.nom}** — ${m.role} (${m.promo})`).join('\n');
   return tagged(
@@ -106,7 +109,10 @@ function tryCandidateOverview(nq) {
 }
 
 function tryProgrammeOverview(nq) {
-  if (!/programme|vision rise|presente rise|en detail|axes|pilier/.test(nq)) return null;
+  const explicit = /(presente (le |tout le |)programme|vision (globale )?rise|en detail le programme|axes du programme|piliers? du programme)/;
+  const isShortGeneric = nq.split(' ').length <= 5 && /\bprogramme\b/.test(nq);
+  if (!explicit.test(nq) && !isShortGeneric) return null;
+
   const poleLines = PROGRAMME.poles.map(p => {
     const m = CANDIDATS.membres[p.porteur];
     return `• 🏛️ **${p.nom}** — ${(p.projets || []).map(pid => {
