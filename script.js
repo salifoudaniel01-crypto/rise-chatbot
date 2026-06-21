@@ -299,14 +299,32 @@ function buildAIContext(rawQuery) {
 }
 
 // ── NIVEAU 3 : APPEL IA (Netlify Function → Groq) ──────────────────────
+function sleep(ms) { return new Promise(res => setTimeout(res, ms)); }
+
+// askAI réessaie automatiquement UNE fois en cas de 429 (quota Groq atteint
+// momentanément — fréquent en période de pic, ex. juste après le partage du
+// lien à toute une promo). Si l'API répond une autre erreur (401, 500...),
+// on n'insiste pas : ce n'est pas un problème de charge passager.
 async function askAI(message) {
   const context = buildAIContext(message);
-  const r = await fetch('/api/chat', {
+  const doFetch = () => fetch('/api/chat', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ message, history: hist.slice(-10), context }),
   });
-  if (!r.ok) throw new Error('AI request failed: ' + r.status);
+
+  let r = await doFetch();
+
+  if (r.status === 429) {
+    await sleep(2500);
+    r = await doFetch();
+  }
+
+  if (!r.ok) {
+    const err = new Error('AI request failed: ' + r.status);
+    err.status = r.status;
+    throw err;
+  }
   const data = await r.json();
   return data.reply || '';
 }
@@ -350,12 +368,15 @@ async function go(txt) {
     rmTyp(); render(raw);
   } catch (e) {
     rmTyp();
-    render(fallback(txt));
+    render(fallback(txt, e && e.status));
   }
   busy = false;
 }
 
-function fallback(q) {
+function fallback(q, status) {
+  if (status === 429) {
+    return `Beaucoup de monde pose des questions en ce moment 🙏 Réessaie dans quelques instants, ou contacte directement un membre du bureau si c'est urgent. [CHIPS:Réessayer|Présente le programme RISE|Contacter le bureau] [CONTACT:president]`;
+  }
   return `Merci pour votre question 😊 Je n'ai pas d'information précise sur ce sujet dans le programme officiel RISE.\n\nSouhaitez-vous être mis en relation avec un membre du bureau pour en savoir plus ? [CHIPS:Présente le programme RISE|Qui sont les candidats ?|Contacter le bureau] [CONTACT:president]`;
 }
 
