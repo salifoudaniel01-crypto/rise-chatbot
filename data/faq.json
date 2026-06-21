@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "greetings": {
+    "patterns": ["bonjour", "salut", "bonsoir", "coucou", "hello", "hey", "yo", "cc", "bjr", "slt"],
+    "responses": [
+      "Bonjour ! 👋 Je suis **RISE Assistant**. Comment puis-je vous aider aujourd'hui ?",
+      "Salut ! 😊 Ravi de vous parler. Une question sur le programme RISE ?",
+      "Bonsoir ! 🌙 Je suis là pour répondre à toutes vos questions sur RISE."
+    ],
+    "chips": ["Présente le programme RISE", "Qui sont les candidats ?", "Pourquoi voter RISE ?"]
+  },
+  "thanks": {
+    "patterns": ["merci", "merci beaucoup", "thanks", "thank you", "merci bcp", "je vous remercie"],
+    "responses": [
+      "Avec plaisir 😊 N'hésitez pas si vous avez d'autres questions !",
+      "Je vous en prie ! Autre chose que je peux préciser ?",
+      "Toujours là pour ça 🙌 Posez-moi une autre question quand vous voulez."
+    ],
+    "chips": ["Parle-moi des candidats", "Pourquoi voter RISE ?", "Contacter le bureau"]
+  },
+  "reactions": {
+    "patterns": ["cool", "super", "genial", "génial", "interessant", "intéressant", "top", "nice", "wahou", "wow"],
+    "responses": [
+      "Content que ça vous plaise 😊 Je peux vous en dire plus si vous voulez !",
+      "Merci ! N'hésitez pas à creuser un sujet précis du programme."
+    ],
+    "chips": ["Présente le programme RISE", "Qui sont les candidats ?", "Quelles actions concrètes ?"]
+  },
+  "questions": [
+    {
+      "id": "qui-president",
+      "patterns": ["qui est le president", "qui est le president de rise", "qui est le president de la liste"],
+      "keywords": ["president", "fredy", "zeunang"],
+      "question": "Qui est le président ?",
+      "answer": "**Fredy Ramel ZEUNANG NGUESOP** est le candidat à la **Présidence** du bureau RISE (AS2 A) 🌟\n\nSa mission : assurer la cohésion du bureau et piloter le développement stratégique de la Division.\n\nSes projets phares :\n• 📱 **Gbaki** — plateforme mobile centralisant toutes les ressources AS\n• 🎓 **AS Projet** — hackathon et cas réels d'entreprise\n• 🌍 **AS International** — bourses, échanges, partenariats étrangers",
+      "chips": ["Parle-moi de Gbaki", "Qu'est-ce qu'AS Projet ?", "Qu'est-ce qu'AS International ?"],
+      "contact": "president"
+    },
+    {
+      "id": "qui-daniel",
+      "patterns": ["qui est daniel", "qui est dissami", "qui est salifou"],
+      "keywords": ["daniel", "salifou", "dissami"],
+      "question": "Qui est Daniel ?",
+      "answer": "**Dissami Daniel SALIFOU** est candidat au poste de **Chargé à la Communication** (AS1 B) 📣\n\nSa mission : **tripler la visibilité** de la DAS sur les réseaux sociaux, avec une stratégie multicanale (WhatsApp, Facebook, LinkedIn, YouTube).\n\nIl pilote aussi **AS Valorisation**, **AS Impact** et **Stat Insight**.",
+      "chips": ["C'est quoi AS Valorisation ?", "Parle-moi d'AS Impact", "Qu'est-ce que Stat Insight ?"],
+      "contact": "comm"
+    },
+    {
+      "id": "pourquoi-voter-rise",
+      "patterns": ["pourquoi voter rise", "pourquoi rise", "pourquoi choisir rise", "raison de voter rise"],
+      "keywords": ["pourquoi voter", "pourquoi rise", "raison", "avantage", "choisir rise"],
+      "question": "Pourquoi voter RISE ?",
+      "answer": "Voter **RISE**, c'est choisir une vision ambitieuse et des projets concrets 🚀\n\n**Ce qui nous différencie :**\n• 📱 **Gbaki** — la première vraie plateforme numérique de la DAS\n• 🌍 **AS International** — des opportunités mondiales pour chaque AS\n• 📊 **Stat Insight** — rendre la statistique utile et visible\n• 🏫 **AS Impact** — des ambassadeurs dans les lycées\n• 🌟 **AS Valorisation** — chaque talent mérite d'être reconnu\n• 📅 **Semaine de l'Analyste** — 7 jours pour faire briller la DAS\n• 💊 **Kit Pharmaceutique** — parce que votre santé compte\n\nRISE, c'est la **continuité et l'excellence** au service de chaque Analyste Statisticien.",
+      "chips": ["Présente le programme complet", "Qui sont les candidats ?", "Parle-moi de Gbaki"],
+      "contact": null
+    },
+    {
+      "id": "gbaki",
+      "patterns": ["c'est quoi gbaki", "qu'est ce que gbaki", "gbaki c'est quoi"],
+      "keywords": ["gbaki"],
+      "question": "C'est quoi Gbaki ?",
+      "answer": "**Gbaki** est l'innovation technologique phare de RISE 📱\n\nC'est une plateforme **mobile et web** qui centralise :\n• 📚 Ressources académiques (cours, corrections de devoirs)\n• 👥 Profils et réseau des alumni\n• 🤖 Assistance académique (IA intégrée)\n• 📢 Informations importantes de la Division\n• 🛒 Boutique officielle DAS\n\nGérée par le Président **Fredy Ramel ZEUNANG** et une Commission Gbaki dédiée.",
+      "chips": ["Parle-moi d'AS Projet", "Qu'est-ce qu'AS International ?", "Présente le Président"],
+      "contact": "president"
+    },
+    {
+      "id": "stat-insight",
+      "patterns": ["c'est quoi stat insight", "qu'est ce que stat insight"],
+      "keywords": ["stat insight", "as insight"],
+      "question": "C'est quoi Stat Insight ?",
+      "answer": "**Stat Insight** (ou AS Insight) est un programme du pôle Communication 📊\n\n**Objectif :** rendre la statistique **simple, concrète et utile** pour tous.\n\n• 📌 Chiffre de la semaine\n• 📰 Analyse d'actualité\n• 🎓 Vulgarisation statistique\n• 🎬 Vidéos YouTube et tutoriels\n• 🧠 Quiz interactifs\n\nPiloté par **Dissami Daniel SALIFOU**.",
+      "chips": ["Parle-moi d'AS Impact", "C'est quoi AS Valorisation ?", "Présente le Chargé Communication"],
+      "contact": "comm"
+    },
+    {
+      "id": "as-impact",
+      "patterns": ["c'est quoi as impact", "qu'est ce que as impact"],
+      "keywords": ["as impact"],
+      "question": "C'est quoi AS Impact ?",
+      "answer": "**AS Impact** est un programme de rayonnement de la filière AS 🚀\n\n**Objectif :** promouvoir le métier d'Analyste Statisticien auprès des jeunes africains.\n\n• 🎬 Vidéos inspirantes\n• 🏫 Ambassadeurs Stats dans 3 à 5 lycées par an\n• 🌐 Webinaires de découverte\n• 🏆 Concours inter-filières\n• 🗺️ Carte des débouchés AS\n\nPiloté par **Dissami Daniel SALIFOU**.",
+      "chips": ["Parle-moi d'AS Valorisation", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"],
+      "contact": "comm"
+    },
+    {
+      "id": "as-valorisation",
+      "patterns": ["c'est quoi as valorisation", "qu'est ce que as valorisation"],
+      "keywords": ["as valorisation"],
+      "question": "C'est quoi AS Valorisation ?",
+      "answer": "**AS Valorisation** met en lumière les Analystes Statisticiens qui font la fierté de la DAS 🌟\n\n• 👤 Portrait du mois\n• 🏆 Hall of Fame AS\n• 🥇 Prix AS Excellence\n• 📖 Annuaire digital de la promo sortante\n• 🎓 Cérémonie de départ pour les AS3\n\nPiloté par **Dissami Daniel SALIFOU**.",
+      "chips": ["Parle-moi d'AS Impact", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"],
+      "contact": "comm"
+    },
+    {
+      "id": "comment-contacter",
+      "patterns": ["comment contacter le bureau", "comment vous contacter", "comment joindre le bureau"],
+      "keywords": ["contact", "contacter", "joindre", "whatsapp", "numero"],
+      "question": "Comment contacter le bureau ?",
+      "answer": "Vous souhaitez contacter un membre du bureau RISE ? 😊\n\nChaque membre est joignable directement sur WhatsApp. Qui cherchez-vous ?",
+      "chips": ["Contacter le Président", "Contacter la VP", "Contacter la Secrétaire Générale", "Contacter la Communication"],
+      "contact": null
+    },
+    {
+      "id": "programme-realiste",
+      "patterns": ["votre programme est il realiste", "le programme est il realiste", "est ce realiste"],
+      "keywords": ["realiste", "ambitieux", "programme"],
+      "question": "Votre programme est-il réaliste ?",
+      "answer": "C'est une remarque pertinente, et c'est justement pour ça que chaque pôle a un responsable dédié avec un périmètre clair, plutôt qu'une seule personne qui porterait tout 😊\n\nL'ambition est **répartie**, pas concentrée. Et le **Bilan Trimestriel** permettra de suivre l'avancement réel, pôle par pôle.",
+      "chips": ["Comment allez-vous financer cela ?", "Quelle différence avec l'ancien bureau ?", "Présente le programme"],
+      "contact": null
+    },
+    {
+      "id": "pourquoi-autant-projets",
+      "patterns": ["pourquoi autant de projets", "pourquoi tant de projets"],
+      "keywords": ["autant de projets", "tant de projets"],
+      "question": "Pourquoi autant de projets ?",
+      "answer": "Parce que la DAS a des besoins variés (académique, social, professionnel, image) qui ne peuvent pas être couverts par un seul projet 💡\n\nChaque pôle répond à un besoin spécifique, pas à une volonté d'en faire \"le plus possible\". Le fil conducteur, c'est notre devise : **Rêve • Impact • Stratégie • Excellence**.",
+      "chips": ["Présente le programme", "Pourquoi vous faire confiance ?", "Comment allez-vous financer cela ?"],
+      "contact": null
+    },
+    {
+      "id": "pourquoi-confiance",
+      "patterns": ["pourquoi vous faire confiance", "pourquoi devrais je vous croire", "comment vous croire"],
+      "keywords": ["confiance", "croire"],
+      "question": "Pourquoi vous faire confiance ?",
+      "answer": "Pas seulement sur parole 😊 Le programme est **public et détaillé**, et un **Bilan Trimestriel PDF** sera publié pour que chacun puisse vérifier l'avancement réel, pôle par pôle.\n\nC'est ce mécanisme de suivi vérifiable qui distingue notre approche.",
+      "chips": ["Qu'est-ce que le Bilan Trimestriel ?", "Quelle différence avec l'ancien bureau ?", "Présente le programme"],
+      "contact": null
+    },
+    {
+      "id": "difference-ancien-bureau",
+      "patterns": ["quelle difference avec l'ancien bureau", "difference avec l'ancien bureau", "comparaison avec l'ancien bureau"],
+      "keywords": ["ancien bureau", "difference", "comparaison", "bureau precedent"],
+      "question": "Quelle différence avec l'ancien bureau ?",
+      "answer": "Merci pour cette question de fond 😊\n\n**RISE s'inscrit dans une logique de continuité et d'amélioration.** Nous respectons le travail des bureaux précédents et bâtissons **sur** les fondations existantes :\n\n• 📱 **Gbaki** — aucune plateforme numérique de ce type n'existait\n• 🌍 **AS International** — ouverture sur le monde\n• 📊 **Stat Insight** — la statistique au service du quotidien\n• 🚀 **AS Impact** — des ambassadeurs dans les lycées\n\nCe qui change vraiment, c'est la **méthode** : suivi documenté (Bilan Trimestriel) et responsables identifiés par pôle.",
+      "chips": ["Présente le programme", "Pourquoi voter RISE ?", "Parle-moi de Gbaki"],
+      "contact": null
+    },
+    {
+      "id": "financement",
+      "patterns": ["comment allez vous financer cela", "comment vous financez", "financement du programme"],
+      "keywords": ["financer", "financement", "budget"],
+      "question": "Comment allez-vous financer cela ?",
+      "answer": "Principalement via la **contribution des aînés** (15 000 à 30 000 FCFA/an selon expérience) et une **recherche active de financements complémentaires**, pilotée par le pôle Finances 💰\n\nLe montant exact des cotisations non encore définies n'est jamais avancé publiquement — on reste factuel sur ce qui est déjà chiffré.",
+      "chips": ["Contacter le Chargé aux Finances", "Présente le programme", "Pourquoi vous faire confiance ?"],
+      "contact": "finances"
+    }
+  ]
+}

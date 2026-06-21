@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "devise": "Rêve • Impact • Stratégie • Excellence",
+  "vision": "Faire de la DAS une entité influente, unie et engagée, favorisant la réussite et l'épanouissement de chaque Analyste Statisticien.",
+  "poles": [
+    { "id": "presidence", "nom": "Présidence", "porteur": "president", "projets": ["gbaki", "as_projet", "as_international"] },
+    { "id": "vice_presidence", "nom": "Vice-Présidence", "porteur": "vp", "projets": ["semaine_analyste", "journee_alumni", "site_web", "charisme_as"] },
+    { "id": "secretariat", "nom": "Secrétariat Général", "porteur": "sg", "projets": ["kit_pharmaceutique", "suivi_academique", "as_carriere", "bootcamp", "orientation_internationale", "bilan_trimestriel"] },
+    { "id": "communication", "nom": "Communication", "porteur": "comm", "projets": ["as_valorisation", "as_impact", "stat_insight"] },
+    { "id": "organisation", "nom": "Organisation", "porteur": "orga", "projets": ["evenements"] },
+    { "id": "finances", "nom": "Finances", "porteur": "finances", "projets": ["polo_das", "cotisation_aines"] }
+  ],
+  "projets": [
+    {
+      "id": "gbaki",
+      "nom": "Gbaki",
+      "pole": "presidence",
+      "porteur": "president",
+      "description": "Plateforme mobile et web qui centralise ressources académiques, réseau alumni, assistance IA et boutique DAS.",
+      "details": [
+        "Ressources académiques (cours, corrections de devoirs)",
+        "Profils et réseau des alumni",
+        "Assistance académique par IA intégrée",
+        "Informations importantes de la Division",
+        "Boutique officielle DAS"
+      ],
+      "complement": "Gérée par le Président et une Commission Gbaki dédiée à la mise à jour continue, pour ne pas faire reposer le projet sur une seule personne.",
+      "keywords": ["gbaki", "application", "app", "plateforme", "ia", "ressources"],
+      "chips": ["Parle-moi d'AS Projet", "Qu'est-ce qu'AS International ?", "Présente le Président"]
+    },
+    {
+      "id": "as_projet",
+      "nom": "AS Projet",
+      "pole": "presidence",
+      "porteur": "president",
+      "description": "Programme de formation pratique par vagues thématiques, cas réels d'entreprise et hackathon final.",
+      "details": [
+        "Vagues thématiques successives",
+        "Résolution de cas réels d'entreprise en équipe",
+        "Hackathon final récompensant le meilleur projet"
+      ],
+      "complement": "Développer les compétences techniques et professionnelles des AS au-delà du cursus académique classique.",
+      "keywords": ["as projet", "as project", "hackathon", "projet", "competence", "formation pratique"],
+      "chips": ["Parle-moi d'AS International", "Qu'est-ce que Gbaki ?", "Présente le Président"]
+    },
+    {
+      "id": "as_international",
+      "nom": "AS International",
+      "pole": "presidence",
+      "porteur": "president",
+      "description": "Programme de diffusion de bourses, partenariats et échanges académiques internationaux.",
+      "details": [
+        "Identification et diffusion d'opportunités de bourses",
+        "Partenariats avec des institutions étrangères",
+        "Échanges académiques avec d'autres écoles",
+        "Informations régulières sur les opportunités mondiales"
+      ],
+      "complement": "Permettre à chaque AS d'envisager une carrière ou une formation à l'international, avec un accompagnement concret.",
+      "keywords": ["as international", "international", "bourse", "echange", "etranger", "partenariat"],
+      "chips": ["Parle-moi d'AS Projet", "C'est quoi Gbaki ?", "Orientation internationale avec la SG"]
+    },
+    {
+      "id": "semaine_analyste",
+      "nom": "Semaine de l'Analyste",
+      "pole": "vice_presidence",
+      "porteur": "vp",
+      "description": "7 jours complets dédiés à la valorisation du métier d'Analyste Statisticien.",
+      "details": [
+        "Conférences thématiques (carrières, métiers de la data)",
+        "Contenus éducatifs et pédagogiques",
+        "Activités interactives (quiz, challenges)",
+        "Campagnes de communication digitale",
+        "Partages d'expériences professionnelles"
+      ],
+      "complement": "Pour que les AS soient fiers de leur filière et que le reste de l'ENSEA la reconnaisse à sa juste valeur.",
+      "keywords": ["semaine", "semaine de l'analyste", "semaine analyste", "7 jours"],
+      "chips": ["Parle-moi de la Journée Alumni", "C'est quoi Charisme d'un AS ?", "Présente la VP"]
+    },
+    {
+      "id": "journee_alumni",
+      "nom": "Journée Alumni",
+      "pole": "vice_presidence",
+      "porteur": "vp",
+      "description": "Rencontre entre étudiants actuels et anciens, mentorat et partage d'expérience.",
+      "details": [
+        "Lien direct et personnalisé avec les anciens",
+        "Mentorat professionnel et académique",
+        "Partage d'expérience"
+      ],
+      "complement": "Complémentaire de la Semaine de l'Analyste, qui valorise le métier en général ; la Journée Alumni crée un lien individuel autour du mentorat.",
+      "keywords": ["alumni", "journee alumni", "ancien", "mentorat"],
+      "chips": ["C'est quoi la Semaine de l'Analyste ?", "Présente la VP", "Qu'est-ce que Charisme d'un AS ?"]
+    },
+    {
+      "id": "site_web",
+      "nom": "Site Web officiel DAS",
+      "pole": "vice_presidence",
+      "porteur": "vp",
+      "description": "Plateforme institutionnelle publique et permanente de la DAS.",
+      "details": [
+        "Vitrine permanente consultable par tous (étudiants, alumni, partenaires)",
+        "Professionnalise l'image de la filière"
+      ],
+      "complement": "Complémentaire de Gbaki : Gbaki est une plateforme applicative complète (ressources, IA, boutique, réseau) pilotée par la Présidence ; le site web est la vitrine institutionnelle publique pilotée par la Vice-Présidence.",
+      "keywords": ["site web", "site", "vitrine", "web das"],
+      "chips": ["C'est quoi Gbaki ?", "Présente la VP", "Parle-moi de la Semaine de l'Analyste"]
+    },
+    {
+      "id": "charisme_as",
+      "nom": "Charisme d'un AS",
+      "pole": "vice_presidence",
+      "porteur": "vp",
+      "description": "Distinction bimestrielle (1 garçon, 1 fille) votée par la communauté AS.",
+      "details": [
+        "Tous les 2 mois, 2 étudiants mis à l'honneur",
+        "Sélection sur le dynamisme, l'engagement et le style",
+        "Vote public de la communauté AS"
+      ],
+      "complement": "Créer une culture de l'excellence et encourager l'engagement au sein de la DAS.",
+      "keywords": ["charisme", "charisme d'un as", "distinction", "honneur", "dynamisme"],
+      "chips": ["Parle-moi de la Semaine de l'Analyste", "Présente la VP", "Journée Alumni"]
+    },
+    {
+      "id": "kit_pharmaceutique",
+      "nom": "Kit Pharmaceutique",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Dispositif d'assistance sanitaire solidaire mis à la disposition de tous les Analystes Statisticiens.",
+      "details": [
+        "Financé par les cotisations et la contribution des aînés",
+        "Géré par un comité de régulation dédié",
+        "Accessible à tous les membres de la DAS en cas de besoin"
+      ],
+      "complement": "Complément de premier secours géré au niveau de la Division, pas un remplacement de l'infirmerie de l'école.",
+      "keywords": ["kit pharmaceutique", "pharmacie", "sante", "medical", "kit", "medicament"],
+      "chips": ["Présente la Secrétaire Générale", "Parle-moi d'AS Carrière", "Présente le programme"]
+    },
+    {
+      "id": "suivi_academique",
+      "nom": "Suivi Académique mensuel",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Accompagnement mensuel par promotion (AS1, AS2, AS3) pour détecter tôt les difficultés.",
+      "details": [
+        "Point mensuel centralisé par la Secrétaire Générale",
+        "Orientation vers l'aide adaptée"
+      ],
+      "complement": "Routine fixe du pôle Secrétariat Général dès le début du mandat, pas une action ponctuelle.",
+      "keywords": ["suivi academique", "academique", "difficulte", "soutien"],
+      "chips": ["Présente la Secrétaire Générale", "Qu'est-ce que le kit pharmaceutique ?", "Parle-moi d'AS Carrière"]
+    },
+    {
+      "id": "as_carriere",
+      "nom": "AS Carrière",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Programme d'insertion professionnelle connectant les AS au monde professionnel.",
+      "details": [
+        "Diffusion régulière d'offres de stage et d'emploi",
+        "Sessions d'orientation professionnelle",
+        "Mise en relation avec des professionnels du secteur",
+        "Développement du réseau alumni professionnel"
+      ],
+      "complement": null,
+      "keywords": ["carriere", "as carriere", "stage", "emploi", "recrutement", "professionnel", "insertion", "job"],
+      "chips": ["Parle-moi de l'orientation internationale", "Présente la Secrétaire Générale", "Parle-moi d'AS International"]
+    },
+    {
+      "id": "bootcamp",
+      "nom": "Bootcamp d'intégration",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Programme d'accueil en début de mandat pour aider les nouveaux AS à démarrer sereinement.",
+      "details": ["Repères académiques et sociaux dès le début du mandat"],
+      "complement": "Réduire le temps d'adaptation des AS1.",
+      "keywords": ["bootcamp", "integration", "accueil", "nouveaux as"],
+      "chips": ["Présente la Secrétaire Générale", "Parle-moi du Bizutage du Garba"]
+    },
+    {
+      "id": "orientation_internationale",
+      "nom": "Orientation Internationale",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Information sur les écoles en Europe, Amérique et Afrique, pilotée par la Secrétaire Générale.",
+      "details": ["Identification et diffusion d'opportunités de bourses et d'échanges"],
+      "complement": null,
+      "keywords": ["orientation internationale", "ecoles etranger", "europe", "amerique", "afrique"],
+      "chips": ["Parle-moi d'AS Carrière", "Présente la Secrétaire Générale"]
+    },
+    {
+      "id": "bilan_trimestriel",
+      "nom": "Bilan Trimestriel",
+      "pole": "secretariat",
+      "porteur": "sg",
+      "description": "Rapport PDF de suivi académique et d'avancement, publié chaque trimestre.",
+      "details": ["Outil de transparence", "Partagé avec les étudiants pour visualiser la progression réelle"],
+      "complement": "Mécanisme vérifiable de redevabilité : juger RISE sur les faits publiés, pas sur les seules promesses de départ.",
+      "keywords": ["bilan trimestriel", "rapport", "transparence", "suivi"],
+      "chips": ["Présente la Secrétaire Générale", "Pourquoi vous faire confiance ?"]
+    },
+    {
+      "id": "stat_insight",
+      "nom": "Stat Insight",
+      "pole": "communication",
+      "porteur": "comm",
+      "description": "Programme de vulgarisation statistique pour rendre la statistique simple, concrète et utile.",
+      "details": [
+        "Chiffre de la semaine — une stat marquante sur l'actualité",
+        "Analyse d'actualité avec des données réelles",
+        "Contenus de vulgarisation accessibles",
+        "Vidéos YouTube \"Saviez-vous que...\" et tutoriels pratiques",
+        "Quiz statistiques interactifs"
+      ],
+      "complement": null,
+      "keywords": ["stat insight", "as insight", "statistique", "chiffre de la semaine", "vulgarisation"],
+      "chips": ["Parle-moi d'AS Impact", "C'est quoi AS Valorisation ?", "Présente le Chargé Communication"]
+    },
+    {
+      "id": "as_impact",
+      "nom": "AS Impact",
+      "pole": "communication",
+      "porteur": "comm",
+      "description": "Programme de rayonnement de la filière AS auprès des jeunes africains.",
+      "details": [
+        "Vidéos inspirantes et témoignages de professionnels",
+        "Ambassadeurs Stats dans 3 à 5 lycées par an",
+        "Webinaires de découverte ouverts au public",
+        "Concours inter-filières à l'ENSEA",
+        "Carte des débouchés AS",
+        "Campagne \"Pourquoi choisir AS ?\" sur les réseaux"
+      ],
+      "complement": null,
+      "keywords": ["as impact", "impact", "lycee", "jeunes africains", "ambassadeur"],
+      "chips": ["Parle-moi d'AS Valorisation", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"]
+    },
+    {
+      "id": "as_valorisation",
+      "nom": "AS Valorisation",
+      "pole": "communication",
+      "porteur": "comm",
+      "description": "Met en lumière les Analystes Statisticiens qui font la fierté de la DAS.",
+      "details": [
+        "Portrait du mois",
+        "Hall of Fame AS",
+        "Prix AS Excellence",
+        "Annuaire digital de la promo sortante",
+        "Cérémonie de départ pour les AS3",
+        "Valorisation des certifications et projets"
+      ],
+      "complement": null,
+      "keywords": ["as valorisation", "valorisation", "portrait", "hall of fame", "excellence", "prix"],
+      "chips": ["Parle-moi d'AS Impact", "C'est quoi Stat Insight ?", "Présente le Chargé Communication"]
+    },
+    {
+      "id": "evenements",
+      "nom": "Calendrier d'événements (Organisation)",
+      "pole": "organisation",
+      "porteur": "orga",
+      "description": "Calendrier riche couvrant les différents moments clés de l'année étudiante.",
+      "details": [
+        "Bizutage du Garba — accueil des nouveaux AS",
+        "AKWABA — cérémonie officielle de bienvenue",
+        "Assemblée Générale — vote dématérialisé via Google Form",
+        "Moments de Joie (x2)",
+        "Journée du 8 mars",
+        "Barbecue",
+        "Journée Alumni",
+        "Journée Sportive",
+        "Gala de fin d'année",
+        "Sortie Zoo / Picnic Color Party"
+      ],
+      "complement": "Réparti sur l'année entière pour couvrir intégration, cohésion, sport et clôture, sans concentrer la charge à un seul moment.",
+      "keywords": ["gala", "bizutage", "akwaba", "barbecue", "sportive", "zoo", "picnic", "8 mars", "journee", "assemblee"],
+      "chips": ["Présente la Chargée Organisation", "Parle-moi du programme", "Pourquoi voter RISE ?"]
+    },
+    {
+      "id": "polo_das",
+      "nom": "Polo & Cardigan DAS",
+      "pole": "finances",
+      "porteur": "finances",
+      "description": "Identité visuelle officielle de la DAS et tradition du Vendredi Polo.",
+      "details": [
+        "Polo DAS officiel",
+        "Cardigan DAS",
+        "Vendredi Polo — port officiel chaque semaine",
+        "Gadgets officiels DAS"
+      ],
+      "complement": null,
+      "keywords": ["polo", "cardigan", "vendredi polo", "gadget"],
+      "chips": ["Présente le programme", "Contacter le bureau", "Pourquoi voter RISE ?"]
+    },
+    {
+      "id": "cotisation_aines",
+      "nom": "Contribution des aînés & recherche de financements",
+      "pole": "finances",
+      "porteur": "finances",
+      "description": "Principale source de financement chiffrée du mandat, complétée par une recherche active de financements externes.",
+      "details": [
+        "Contribution des aînés : 15 000 à 30 000 FCFA/an selon expérience",
+        "Recherche active de financements complémentaires pilotée par le pôle Finances"
+      ],
+      "complement": "Le montant n'est jamais cité publiquement pour les cotisations non encore définies ; rester factuel sur ce qui est déjà chiffré.",
+      "keywords": ["cotisation", "aines", "financement", "budget", "argent"],
+      "chips": ["Présente le programme", "Comment allez-vous financer cela ?"]
+    }
+  ]
+}

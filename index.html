@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RISE Assistant · DAS ENSEA 2026</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <div class="header">
+    <div class="h-logo">R</div>
+    <div class="h-info">
+      <div class="h-title">RISE Assistant · DAS</div>
+      <div class="h-sub">Bureau 2026 – 2027 · ENSEA</div>
+    </div>
+    <div class="h-status"><span></span>En ligne</div>
+  </div>
+
+  <div class="nav">
+    <button class="nav-btn" onclick="q('Présente le programme RISE')">📖 Programme</button>
+    <button class="nav-btn" onclick="q('Présente tous les candidats du bureau RISE')">👥 Candidats</button>
+    <button class="nav-btn" onclick="q('Quelles sont les actions concrètes prévues par RISE ?')">🎯 Actions</button>
+    <button class="nav-btn" onclick="q('Parle-moi du projet Gbaki')">📱 Gbaki</button>
+    <button class="nav-btn" onclick="preoc()">💡 Préoccupation</button>
+    <button class="nav-btn" onclick="q('Je souhaite contacter un membre du bureau')">📞 Contact</button>
+    <button class="nav-btn" onclick="q('Pourquoi voter RISE ?')">⭐ Pourquoi RISE ?</button>
+  </div>
+
+  <div class="msgs" id="msgs">
+    <div class="row">
+      <div class="av b">R</div>
+      <div class="bub b">
+        <div class="tag">RISE · DAS ENSEA 2026</div>
+        Bienvenue ! 👋 Je suis <strong>RISE Assistant</strong>, l'assistant officiel de la liste RISE, candidate à la direction de la Division des Analystes Statisticiens de l'ENSEA pour le mandat 2026-2027.<br><br>
+        Notre devise : <strong>Rêve • Impact • Stratégie • Excellence 🚀</strong><br><br>
+        Comment puis-je vous aider ?
+        <div class="chips">
+          <span class="chip" onclick="q('Présente le programme RISE')">📖 Notre programme</span>
+          <span class="chip" onclick="q('Qui sont les candidats de RISE ?')">👥 Les candidats</span>
+          <span class="chip" onclick="q('Quelles sont vos actions concrètes ?')">🎯 Actions concrètes</span>
+          <span class="chip" onclick="q('Pourquoi voter RISE ?')">⭐ Pourquoi RISE ?</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="input-wrap">
+    <div class="irow">
+      <textarea class="ifield" id="inp" placeholder="Posez votre question sur RISE..." rows="1"
+        onkeydown="hkey(event)" oninput="grow(this)"></textarea>
+      <button class="sbtn" onclick="send()">
+        <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+      </button>
+    </div>
+    <div class="hint">Rêve · Impact · Stratégie · Excellence</div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

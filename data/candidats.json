@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "devise": "Rêve • Impact • Stratégie • Excellence",
+  "liste": "RISE",
+  "instance": "Division des Analystes Statisticiens (DAS) — ENSEA",
+  "mandat": "2026-2027",
+  "membres": {
+    "president": {
+      "id": "president",
+      "nom": "Fredy Ramel ZEUNANG NGUESOP",
+      "role": "Président",
+      "promo": "AS2 A",
+      "tel": "2250141831587",
+      "mission": "Vision stratégique, Gbaki, AS Projet, AS International, cohésion du bureau",
+      "projets": ["gbaki", "as_projet", "as_international"],
+      "keywords": ["president", "fredy", "zeunang", "presidence", "vision", "strategie", "gbaki", "international", "hackathon", "projet", "reseau", "direction", "global", "bourse"]
+    },
+    "vp": {
+      "id": "vp",
+      "nom": "Adrianna Hawanza TEBY",
+      "role": "Vice-Présidente",
+      "promo": "AS2 A",
+      "tel": "2250100657150",
+      "mission": "Semaine de l'Analyste, Journée Alumni, Site web DAS, conférences, sorties entreprises, Charisme d'un AS",
+      "projets": ["semaine_analyste", "journee_alumni", "site_web", "charisme_as"],
+      "keywords": ["vice", "adrianna", "teby", "vp", "vice-presidente", "conference", "webinaire", "semaine analyste", "alumni", "site web", "externe", "entreprise", "charisme", "evenement"]
+    },
+    "sg": {
+      "id": "sg",
+      "nom": "Grace Marie-Michelle EBOUA",
+      "role": "Secrétaire Générale",
+      "promo": "AS1 B",
+      "tel": "2250140158686",
+      "mission": "Kit pharmaceutique, suivi académique, AS Carrière, orientation internationale, bilan trimestriel",
+      "projets": ["kit_pharmaceutique", "suivi_academique", "as_carriere", "orientation_internationale", "bilan_trimestriel", "bootcamp"],
+      "keywords": ["secretaire", "grace", "eboua", "sg", "secretariat", "marie-michelle", "michelle", "administratif", "academique", "suivi", "bootcamp", "orientation", "stage", "emploi", "carriere", "pharmacie", "kit", "sante", "bilan", "general"]
+    },
+    "comm": {
+      "id": "comm",
+      "nom": "Dissami Daniel SALIFOU",
+      "role": "Chargé à la Communication",
+      "promo": "AS1 B",
+      "tel": "2250100069619",
+      "mission": "Tripler la visibilité DAS — AS Valorisation, AS Impact, AS Insight (Stat Insight), stratégie multicanale (WhatsApp, Facebook, LinkedIn, YouTube)",
+      "projets": ["as_valorisation", "as_impact", "stat_insight"],
+      "keywords": ["communication", "daniel", "salifou", "comm", "reseaux", "facebook", "linkedin", "youtube", "whatsapp", "publication", "contenu", "valorisation", "visibilite", "video", "impact", "insight"]
+    },
+    "orga": {
+      "id": "orga",
+      "nom": "Belphica Mahougnon Thiarice HOUESSOU",
+      "role": "Chargée à l'Organisation",
+      "promo": "AS2 B",
+      "tel": "22952261522",
+      "mission": "Tous les événements : bizutage, AKWABA, gala, journée sportive, moments de joie, sorties, barbecue, 8 mars",
+      "projets": ["evenements"],
+      "keywords": ["organisation", "thiarice", "houessou", "belphica", "orga", "evenement", "activite", "fete", "bizutage", "akwaba", "gala", "sport", "journee", "barbecue", "joie", "zoo", "picnic", "mobilisation"]
+    },
+    "finances": {
+      "id": "finances",
+      "nom": "Jérémie GBOSSA",
+      "role": "Chargé aux Finances",
+      "promo": "AS1 A",
+      "tel": "2250502430244",
+      "mission": "Ressources financières, polo DAS, cardigan DAS, Vendredi Polo, cotisation aînés, gadgets officiels",
+      "projets": ["polo_das", "cotisation_aines"],
+      "keywords": ["finance", "jeremie", "gbossa", "finances", "polo", "cardigan", "argent", "budget", "financement", "aine", "ressource", "gadget", "vendredi", "cotisation"]
+    }
+  },
+  "table_routage": [
+    { "sujet": "Communication, réseaux sociaux, contenu", "membre": "comm" },
+    { "sujet": "Organisation, événements", "membre": "orga" },
+    { "sujet": "Administratif, académique, social, international", "membre": "sg" },
+    { "sujet": "Vision globale, Gbaki, stratégie", "membre": "president" },
+    { "sujet": "Relations externes, alumni, Semaine de l'Analyste", "membre": "vp" },
+    { "sujet": "Finances, budget, cotisation", "membre": "finances" }
+  ]
+}

@@ -1,0 +1,2720 @@
+{
+  "version": 1,
+  "count": 204,
+  "items": [
+    {
+      "id": "comprehension-036",
+      "category": "comprehension",
+      "question": "Comment fonctionne AS Projet concrètement ?",
+      "answer": "Par vagues thématiques successives : résolution de cas d'entreprise réels en équipe, conclues par un hackathon final récompensant le meilleur projet.",
+      "keywords": [
+        "comment",
+        "fonctionne",
+        "projet",
+        "concretement"
+      ]
+    },
+    {
+      "id": "comprehension-037",
+      "category": "comprehension",
+      "question": "Comment fonctionne Gbaki au quotidien ?",
+      "answer": "Une appli/site centralisant cours, corrections, réseau alumni, une IA d'assistance académique et une boutique, gérée par le Président et une Commission Gbaki dédiée.",
+      "keywords": [
+        "comment",
+        "fonctionne",
+        "gbaki",
+        "quotidien"
+      ]
+    },
+    {
+      "id": "comprehension-038",
+      "category": "comprehension",
+      "question": "Quel est l'intérêt réel de Stat Insight ?",
+      "answer": "Rendre la statistique concrète et accessible via des formats courts (chiffre de la semaine, vidéos, quiz) qui touchent un public plus large que les cours classiques.",
+      "keywords": [
+        "interet",
+        "reel",
+        "stat",
+        "insight"
+      ]
+    },
+    {
+      "id": "comprehension-039",
+      "category": "comprehension",
+      "question": "Comment le Kit Pharmaceutique sera-t-il financé ?",
+      "answer": "Par les cotisations et la contribution des aînés, gérées par un comité de régulation dédié.",
+      "keywords": [
+        "comment",
+        "kit",
+        "pharmaceutique",
+        "sera-t-il",
+        "finance"
+      ]
+    },
+    {
+      "id": "comprehension-040",
+      "category": "comprehension",
+      "question": "Comment se déroule le Suivi Académique mensuel ?",
+      "answer": "La Secrétaire Générale centralise un point mensuel par promotion (AS1, AS2, AS3) pour repérer tôt les difficultés et orienter vers l'aide adaptée.",
+      "keywords": [
+        "comment",
+        "deroule",
+        "suivi",
+        "academique",
+        "mensuel"
+      ]
+    },
+    {
+      "id": "comprehension-041",
+      "category": "comprehension",
+      "question": "Quelle est la différence entre Gbaki et le site web DAS ?",
+      "answer": "Gbaki est une plateforme applicative complète (ressources, IA, boutique, réseau), pilotée par la Présidence ; le site web est la vitrine institutionnelle publique de la DAS, pilotée par la Vice-Présidence. Les deux ont des objectifs complémentaires, pas redondants.",
+      "keywords": [
+        "difference",
+        "entre",
+        "gbaki",
+        "site",
+        "web",
+        "das"
+      ]
+    },
+    {
+      "id": "comprehension-042",
+      "category": "comprehension",
+      "question": "Comment est choisi le gagnant de Charisme d'un AS ?",
+      "answer": "Par vote public de la communauté AS, sur la base du dynamisme, de l'engagement et du style, tous les deux mois.",
+      "keywords": [
+        "comment",
+        "choisi",
+        "gagnant",
+        "charisme"
+      ]
+    },
+    {
+      "id": "comprehension-043",
+      "category": "comprehension",
+      "question": "Comment fonctionne la diffusion des offres dans AS Carrière ?",
+      "answer": "Diffusion régulière d'offres de stage/emploi, sessions d'orientation et mise en relation avec des professionnels via le réseau alumni.",
+      "keywords": [
+        "comment",
+        "fonctionne",
+        "diffusion",
+        "offres",
+        "carriere"
+      ]
+    },
+    {
+      "id": "comprehension-044",
+      "category": "comprehension",
+      "question": "Comment est structurée la Semaine de l'Analyste ?",
+      "answer": "Conférences thématiques, contenus pédagogiques, activités interactives et campagnes de communication digitale sur 7 jours.",
+      "keywords": [
+        "comment",
+        "structuree",
+        "semaine",
+        "analyste"
+      ]
+    },
+    {
+      "id": "comprehension-045",
+      "category": "comprehension",
+      "question": "Quel est le rôle exact de la Commission Gbaki ?",
+      "answer": "Assurer la mise à jour continue de la plateforme au-delà du seul Président, pour garantir la pérennité du projet.",
+      "keywords": [
+        "role",
+        "exact",
+        "commission",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "comprehension-046",
+      "category": "comprehension",
+      "question": "Comment le bureau compte-t-il financer ses activités ?",
+      "answer": "Via la contribution des aînés (15 000 à 30 000 FCFA/an selon expérience) et une recherche active de financements complémentaires.",
+      "keywords": [
+        "comment",
+        "bureau",
+        "compte-t-il",
+        "financer",
+        "activites"
+      ]
+    },
+    {
+      "id": "comprehension-047",
+      "category": "comprehension",
+      "question": "Quel est le lien entre AS Impact et AS Valorisation ?",
+      "answer": "AS Impact vise l'extérieur (jeunes lycéens, rayonnement de la filière) ; AS Valorisation vise l'intérieur (reconnaissance des AS déjà dans la filière). Ils sont complémentaires, pas redondants.",
+      "keywords": [
+        "lien",
+        "entre",
+        "impact",
+        "valorisation"
+      ]
+    },
+    {
+      "id": "comprehension-048",
+      "category": "comprehension",
+      "question": "Comment les vidéos YouTube seront-elles produites ?",
+      "answer": "Le pôle Communication prévoit un rythme d'environ une vidéo par mois (tutoriels, TP corrigés).",
+      "keywords": [
+        "comment",
+        "videos",
+        "youtube",
+        "seront-elles",
+        "produites"
+      ]
+    },
+    {
+      "id": "comprehension-049",
+      "category": "comprehension",
+      "question": "En quoi consiste l'Orientation Internationale ?",
+      "answer": "Identification et diffusion d'opportunités de bourses et d'échanges avec des écoles en Europe, Amérique et Afrique, pilotée par la Secrétaire Générale.",
+      "keywords": [
+        "consiste",
+        "orientation",
+        "internationale"
+      ]
+    },
+    {
+      "id": "comprehension-050",
+      "category": "comprehension",
+      "question": "Quel est le rôle du comité de régulation du Kit Pharmaceutique ?",
+      "answer": "Gérer l'accès équitable au kit et assurer la transparence de son fonctionnement.",
+      "keywords": [
+        "role",
+        "comite",
+        "regulation",
+        "kit",
+        "pharmaceutique"
+      ]
+    },
+    {
+      "id": "comprehension-051",
+      "category": "comprehension",
+      "question": "Comment s'articulent les rôles entre Vice-Présidence et Communication ?",
+      "answer": "La VP gère le rayonnement externe (entreprises, alumni, événements) ; la Communication gère la diffusion digitale interne et externe des contenus. Deux leviers complémentaires d'un même objectif de visibilité.",
+      "keywords": [
+        "comment",
+        "articulent",
+        "roles",
+        "entre",
+        "vice-presidence",
+        "communication"
+      ]
+    },
+    {
+      "id": "comprehension-052",
+      "category": "comprehension",
+      "question": "Pourquoi un hackathon dans AS Projet ?",
+      "answer": "Pour conclure les vagues thématiques par une mise en pratique compétitive qui valorise les meilleures équipes et motive l'engagement.",
+      "keywords": [
+        "pourquoi",
+        "hackathon",
+        "projet"
+      ]
+    },
+    {
+      "id": "comprehension-053",
+      "category": "comprehension",
+      "question": "Comment sera utilisé le Bilan Trimestriel PDF ?",
+      "answer": "Comme outil de transparence et de suivi, partagé avec les étudiants pour visualiser la progression académique de chaque promotion.",
+      "keywords": [
+        "comment",
+        "utilise",
+        "bilan",
+        "trimestriel",
+        "pdf"
+      ]
+    },
+    {
+      "id": "comprehension-054",
+      "category": "comprehension",
+      "question": "Quel est l'objectif du Bootcamp d'intégration ?",
+      "answer": "Donner aux nouveaux AS les repères académiques et sociaux nécessaires dès le début du mandat, pour réduire le temps d'adaptation.",
+      "keywords": [
+        "objectif",
+        "bootcamp",
+        "integration"
+      ]
+    },
+    {
+      "id": "comprehension-055",
+      "category": "comprehension",
+      "question": "Comment la cotisation des aînés est-elle utilisée ?",
+      "answer": "Elle finance notamment le Kit Pharmaceutique et les projets communs nécessitant un budget (gadgets, événements).",
+      "keywords": [
+        "comment",
+        "cotisation",
+        "aines",
+        "est-elle",
+        "utilisee"
+      ]
+    },
+    {
+      "id": "comprehension-056",
+      "category": "comprehension",
+      "question": "Pourquoi le pôle Organisation prévoit-il autant d'événements ?",
+      "answer": "Pour couvrir les différents moments clés de l'année (intégration, cohésion, sport, fin d'année) sans laisser de vide dans le calendrier étudiant.",
+      "keywords": [
+        "pourquoi",
+        "pole",
+        "organisation",
+        "prevoit-il",
+        "autant",
+        "evenements"
+      ]
+    },
+    {
+      "id": "comprehension-057",
+      "category": "comprehension",
+      "question": "Comment fonctionne le vote de l'Assemblée Générale ?",
+      "answer": "Un vote dématérialisé via Google Form est prévu pour l'Assemblée Générale d'ouverture.",
+      "keywords": [
+        "comment",
+        "fonctionne",
+        "vote",
+        "assemblee",
+        "generale"
+      ]
+    },
+    {
+      "id": "comprehension-058",
+      "category": "comprehension",
+      "question": "Quel est le rôle des Ambassadeurs Stats dans AS Impact ?",
+      "answer": "Représenter la filière AS dans 3 à 5 lycées par an pour susciter des vocations chez les jeunes.",
+      "keywords": [
+        "role",
+        "ambassadeurs",
+        "stats",
+        "impact"
+      ]
+    },
+    {
+      "id": "comprehension-059",
+      "category": "comprehension",
+      "question": "Quelle est la logique derrière l'Annuaire digital de la promo sortante ?",
+      "answer": "Garder une trace valorisante du parcours des AS3 et faciliter le lien avec le réseau alumni après leur départ.",
+      "keywords": [
+        "logique",
+        "derriere",
+        "annuaire",
+        "digital",
+        "promo",
+        "sortante"
+      ]
+    },
+    {
+      "id": "comprehension-060",
+      "category": "comprehension",
+      "question": "Comment s'articule la communication multicanale ?",
+      "answer": "WhatsApp pour la proximité (affiches, vidéos courtes), Facebook pour la valorisation, LinkedIn pour le professionnel, YouTube pour le contenu pédagogique long.",
+      "keywords": [
+        "comment",
+        "articule",
+        "communication",
+        "multicanale"
+      ]
+    },
+    {
+      "id": "comprehension-061",
+      "category": "comprehension",
+      "question": "Pourquoi RISE met-elle l'accent sur l'IA dans Gbaki ?",
+      "answer": "Pour offrir une assistance académique disponible en continu, en complément (non en remplacement) des enseignants et du tutorat.",
+      "keywords": [
+        "pourquoi",
+        "rise",
+        "met-elle",
+        "accent",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "comprehension-062",
+      "category": "comprehension",
+      "question": "Comment le bureau compte-t-il mesurer le succès de ses projets ?",
+      "answer": "Par les indicateurs concrets déjà intégrés à certains projets (Bilan Trimestriel, suivi mensuel) et le retour direct des étudiants via les canaux de communication.",
+      "keywords": [
+        "comment",
+        "bureau",
+        "compte-t-il",
+        "mesurer",
+        "succes",
+        "projets"
+      ]
+    },
+    {
+      "id": "critique-063",
+      "category": "critique",
+      "question": "Votre programme n'est-il pas trop ambitieux ?",
+      "answer": "C'est une remarque pertinente, et c'est justement pour ça que chaque pôle a un responsable dédié avec un périmètre clair, plutôt qu'une seule personne qui porterait tout. L'ambition est répartie, pas concentrée.",
+      "keywords": [
+        "programme",
+        "est-il",
+        "trop",
+        "ambitieux"
+      ]
+    },
+    {
+      "id": "critique-064",
+      "category": "critique",
+      "question": "Pourquoi créer autant de projets ?",
+      "answer": "Parce que la DAS a des besoins variés (académique, social, professionnel, image) qui ne peuvent pas être couverts par un seul projet. Chaque pôle répond à un besoin spécifique, pas à une volonté d'en faire \"le plus possible\".",
+      "keywords": [
+        "pourquoi",
+        "creer",
+        "autant",
+        "projets"
+      ]
+    },
+    {
+      "id": "critique-065",
+      "category": "critique",
+      "question": "N'avez-vous pas peur de ne pas tout réaliser ?",
+      "answer": "C'est un risque assumé honnêtement : certains projets avanceront plus vite que d'autres selon les ressources disponibles, mais la priorité sera donnée à ce qui a le plus d'impact direct sur les étudiants.",
+      "keywords": [
+        "avez-vous",
+        "peur",
+        "tout",
+        "realiser"
+      ]
+    },
+    {
+      "id": "critique-066",
+      "category": "critique",
+      "question": "Votre équipe est-elle assez nombreuze pour tout gérer ?",
+      "answer": "Six pôles avec un responsable identifié chacun, c'est une répartition claire. Ce n'est pas une garantie absolue, mais c'est une organisation pensée pour éviter qu'une seule personne soit débordée.",
+      "keywords": [
+        "equipe",
+        "est-elle",
+        "assez",
+        "nombreuze",
+        "tout",
+        "gerer"
+      ]
+    },
+    {
+      "id": "critique-067",
+      "category": "critique",
+      "question": "N'est-ce pas trop de promesses pour un seul mandat ?",
+      "answer": "Le programme distingue volontairement des actions rapides (dès le début du mandat) et des projets de fond (sur toute l'année), justement pour rester réaliste sur le rythme.",
+      "keywords": [
+        "trop",
+        "promesses",
+        "seul",
+        "mandat"
+      ]
+    },
+    {
+      "id": "critique-068",
+      "category": "critique",
+      "question": "Pourquoi tant de projets technologiques (Gbaki, site web) ?",
+      "answer": "Parce que la centralisation de l'information est un vrai problème identifié chez les AS aujourd'hui ; la réponse passe forcément par des outils numériques.",
+      "keywords": [
+        "pourquoi",
+        "tant",
+        "projets",
+        "technologiques",
+        "gbaki",
+        "site",
+        "web"
+      ]
+    },
+    {
+      "id": "critique-069",
+      "category": "critique",
+      "question": "Le pôle Communication peut-il vraiment tout gérer seul ?",
+      "answer": "La stratégie multicanale est ambitieuse, c'est vrai. Elle s'appuie sur une planification de contenu (1 vidéo/mois, pas plus) pour rester soutenable plutôt que sur de la production quotidienne sur tous les canaux.",
+      "keywords": [
+        "pole",
+        "communication",
+        "peut-il",
+        "vraiment",
+        "tout",
+        "gerer",
+        "seul"
+      ]
+    },
+    {
+      "id": "critique-070",
+      "category": "critique",
+      "question": "N'y a-t-il pas un risque de surcharge pour les étudiants avec tous ces événements ?",
+      "answer": "C'est un point de vigilance réel ; le calendrier est pensé pour répartir les activités sur l'année plutôt que les concentrer, et aucune n'est obligatoire.",
+      "keywords": [
+        "a-t-il",
+        "risque",
+        "surcharge",
+        "etudiants",
+        "tous",
+        "evenements"
+      ]
+    },
+    {
+      "id": "critique-071",
+      "category": "critique",
+      "question": "Pourquoi le Kit Pharmaceutique et pas directement des bourses d'études ?",
+      "answer": "Les deux besoins sont réels, mais le Kit Pharmaceutique répond à un besoin immédiat et universel (santé du quotidien), alors que les bourses dépendent de partenariats externes, plus longs à construire — c'est d'ailleurs couvert par AS International.",
+      "keywords": [
+        "pourquoi",
+        "kit",
+        "pharmaceutique",
+        "directement",
+        "bourses",
+        "etudes"
+      ]
+    },
+    {
+      "id": "critique-072",
+      "category": "critique",
+      "question": "Votre programme ressemble-t-il trop à celui du bureau sortant ?",
+      "answer": "Certaines bases (suivi académique, communication) sont des fondamentaux qu'aucun bureau ne peut ignorer ; ce qui change avec RISE, c'est la manière de les exécuter (outils, régularité, transparence) et les projets nouveaux qu'on y ajoute.",
+      "keywords": [
+        "programme",
+        "ressemble-t-il",
+        "trop",
+        "celui",
+        "bureau",
+        "sortant"
+      ]
+    },
+    {
+      "id": "critique-073",
+      "category": "critique",
+      "question": "N'avez-vous pas peur que Gbaki ne voie jamais le jour ?",
+      "answer": "C'est un risque pour tout projet technologique étudiant. La Commission Gbaki dédiée existe justement pour ne pas faire reposer ce projet sur une seule personne et garantir une avancée continue.",
+      "keywords": [
+        "avez-vous",
+        "peur",
+        "gbaki",
+        "voie",
+        "jamais",
+        "jour"
+      ]
+    },
+    {
+      "id": "critique-074",
+      "category": "critique",
+      "question": "Pourquoi autant de mise en avant individuelle (Charisme d'un AS, Portrait du mois) ?",
+      "answer": "Parce que la reconnaissance individuelle motive l'engagement collectif ; ce n'est pas un concours de popularité mais une manière de célébrer des parcours inspirants pour toute la promotion.",
+      "keywords": [
+        "pourquoi",
+        "autant",
+        "mise",
+        "avant",
+        "individuelle",
+        "charisme",
+        "portrait",
+        "mois"
+      ]
+    },
+    {
+      "id": "critique-075",
+      "category": "critique",
+      "question": "N'est-ce pas risqué de promettre un site web ET une application ?",
+      "answer": "Les deux ont des rôles différents et des porteurs différents (VP pour le site, Président pour l'app) ; ce n'est donc pas une double charge sur une seule personne.",
+      "keywords": [
+        "risque",
+        "promettre",
+        "site",
+        "web",
+        "application"
+      ]
+    },
+    {
+      "id": "critique-076",
+      "category": "critique",
+      "question": "Le programme ne fait-il pas l'impasse sur les difficultés financières des étudiants eux-mêmes ?",
+      "answer": "Au contraire, AS Carrière et le Kit Pharmaceutique répondent directement à des besoins concrets des étudiants ; et la contribution attendue reste celle des aînés, pas des AS en cours de cursus.",
+      "keywords": [
+        "programme",
+        "fait-il",
+        "impasse",
+        "difficultes",
+        "financieres",
+        "etudiants",
+        "eux-memes"
+      ]
+    },
+    {
+      "id": "critique-077",
+      "category": "critique",
+      "question": "Pourquoi pas un projet dédié à la santé mentale ?",
+      "answer": "C'est une remarque importante à transmettre directement au pôle Secrétariat Général, qui pilote déjà le volet bien-être (Kit Pharmaceutique, suivi académique) ; c'est un sujet qui mérite d'être approfondi avec eux.",
+      "keywords": [
+        "pourquoi",
+        "projet",
+        "dedie",
+        "sante",
+        "mentale"
+      ]
+    },
+    {
+      "id": "critique-078",
+      "category": "critique",
+      "question": "Le calendrier d'événements n'est-il pas surchargé en fin d'année (Gala, Sortie Zoo) ?",
+      "answer": "La fin d'année concentre naturellement les moments de clôture ; c'est assumé comme un temps fort plutôt qu'un problème de surcharge.",
+      "keywords": [
+        "calendrier",
+        "evenements",
+        "est-il",
+        "surcharge",
+        "fin",
+        "annee",
+        "gala",
+        "sortie"
+      ]
+    },
+    {
+      "id": "critique-079",
+      "category": "critique",
+      "question": "Le programme ne mise-t-il pas trop sur la communication/image plutôt que le concret ?",
+      "answer": "La communication est un pôle parmi six ; les autres (académique, social, financier) sont tout aussi développés. La visibilité sert à faire connaître ces actions concrètes, pas à les remplacer.",
+      "keywords": [
+        "programme",
+        "mise-t-il",
+        "trop",
+        "communication/image",
+        "plutot",
+        "concret"
+      ]
+    },
+    {
+      "id": "critique-080",
+      "category": "critique",
+      "question": "Comment être sûrs que les projets seront évalués objectivement en fin de mandat ?",
+      "answer": "Le Bilan Trimestriel PDF existe justement pour ça : un suivi régulier et documenté plutôt qu'un bilan fait uniquement en fin de mandat.",
+      "keywords": [
+        "comment",
+        "etre",
+        "surs",
+        "projets",
+        "seront",
+        "evalues",
+        "objectivement",
+        "fin"
+      ]
+    },
+    {
+      "id": "critique-081",
+      "category": "critique",
+      "question": "N'y a-t-il pas un risque de conflit entre les 6 pôles sur les priorités ?",
+      "answer": "Chaque pôle a un périmètre clairement délimité dans le programme, ce qui réduit ce risque ; et la Présidence a justement pour rôle d'assurer la cohésion d'ensemble.",
+      "keywords": [
+        "a-t-il",
+        "risque",
+        "conflit",
+        "entre",
+        "poles",
+        "priorites"
+      ]
+    },
+    {
+      "id": "critique-082",
+      "category": "critique",
+      "question": "Le programme ne dépend-il pas trop de la motivation personnelle des 6 candidats ?",
+      "answer": "C'est vrai pour n'importe quel bureau étudiant ; RISE répond à ça par une répartition claire des rôles et des objectifs mesurables (Bilan Trimestriel) qui responsabilisent chacun.",
+      "keywords": [
+        "programme",
+        "depend-il",
+        "trop",
+        "motivation",
+        "personnelle",
+        "candidats"
+      ]
+    },
+    {
+      "id": "critique-083",
+      "category": "critique",
+      "question": "N'auriez-vous pas dû consulter davantage les étudiants avant d'écrire ce programme ?",
+      "answer": "Le programme s'appuie sur des besoins largement partagés par la communauté AS (visibilité, suivi académique, vie associative) ; et les retours restent les bienvenus dès maintenant via le bureau.",
+      "keywords": [
+        "auriez-vous",
+        "consulter",
+        "davantage",
+        "etudiants",
+        "avant",
+        "ecrire",
+        "programme"
+      ]
+    },
+    {
+      "id": "critique-084",
+      "category": "critique",
+      "question": "Pourquoi votre programme ne parle-t-il pas des notes ou des cours eux-mêmes ?",
+      "answer": "Ce n'est pas le rôle du bureau de la Division de se substituer au corps enseignant ; en revanche, le suivi académique et le tutorat via Gbaki visent à accompagner la réussite dans ce cadre.",
+      "keywords": [
+        "pourquoi",
+        "programme",
+        "parle-t-il",
+        "notes",
+        "cours",
+        "eux-memes"
+      ]
+    },
+    {
+      "id": "critique-085",
+      "category": "critique",
+      "question": "Votre stratégie de communication n'est-elle pas qu'un outil de campagne ?",
+      "answer": "La stratégie multicanale est pensée pour durer tout le mandat, pas seulement la période électorale ; c'est justement ce qui la différencie d'une simple communication de campagne.",
+      "keywords": [
+        "strategie",
+        "communication",
+        "est-elle",
+        "outil",
+        "campagne"
+      ]
+    },
+    {
+      "id": "critique-086",
+      "category": "critique",
+      "question": "N'est-il pas risqué de baser le financement sur les aînés ?",
+      "answer": "C'est une source réaliste et déjà pratiquée dans d'autres divisions ; le pôle Finances prévoit aussi une recherche active de financements complémentaires pour ne pas en dépendre exclusivement.",
+      "keywords": [
+        "est-il",
+        "risque",
+        "baser",
+        "financement",
+        "aines"
+      ]
+    },
+    {
+      "id": "critique-087",
+      "category": "critique",
+      "question": "Le programme RISE n'est-il pas qu'une accumulation d'idées sans fil conducteur ?",
+      "answer": "Le fil conducteur, c'est la devise même : Rêve, Impact, Stratégie, Excellence — chaque projet se rattache à l'un de ces quatre axes, ce n'est pas une liste arbitraire.",
+      "keywords": [
+        "programme",
+        "rise",
+        "est-il",
+        "accumulation",
+        "idees",
+        "fil",
+        "conducteur"
+      ]
+    },
+    {
+      "id": "sceptique-088",
+      "category": "sceptique",
+      "question": "Comment êtes-vous sûrs de réussir ?",
+      "answer": "On ne peut jamais en être sûrs à 100%, c'est honnête de le dire ; ce qu'on peut garantir, c'est une organisation claire, des responsables identifiés par projet, et un suivi régulier pour ajuster si besoin.",
+      "keywords": [
+        "comment",
+        "etes-vous",
+        "surs",
+        "reussir"
+      ]
+    },
+    {
+      "id": "sceptique-089",
+      "category": "sceptique",
+      "question": "Pourquoi devrais-je vous croire ?",
+      "answer": "Pas seulement sur parole : le programme est public, détaillé, et un Bilan Trimestriel sera publié pour que chacun puisse vérifier l'avancement réel.",
+      "keywords": [
+        "pourquoi",
+        "devrais-je",
+        "croire"
+      ]
+    },
+    {
+      "id": "sceptique-090",
+      "category": "sceptique",
+      "question": "Vous dites ça pour gagner des voix, non ?",
+      "answer": "C'est légitime de se poser la question pendant une campagne. La meilleure réponse, c'est de juger sur la précision et le réalisme du programme plutôt que sur les promesses seules.",
+      "keywords": [
+        "dites",
+        "gagner",
+        "voix",
+        "non"
+      ]
+    },
+    {
+      "id": "sceptique-091",
+      "category": "sceptique",
+      "question": "Qu'est-ce qui prouve que vous tiendrez vos engagements ?",
+      "answer": "Rien ne le prouve à l'avance, mais le suivi trimestriel public et la répartition claire des rôles sont des mécanismes concrets de redevabilité, pas juste des mots.",
+      "keywords": [
+        "prouve",
+        "tiendrez",
+        "engagements"
+      ]
+    },
+    {
+      "id": "sceptique-092",
+      "category": "sceptique",
+      "question": "D'autres listes avant vous ont promis la même chose, pourquoi ce serait différent ?",
+      "answer": "C'est une critique juste à entendre. La différence qu'on propose, c'est un mécanisme de suivi documenté (Bilan Trimestriel) plutôt qu'une simple promesse en début de mandat.",
+      "keywords": [
+        "autres",
+        "listes",
+        "avant",
+        "promis",
+        "meme",
+        "chose",
+        "pourquoi",
+        "different"
+      ]
+    },
+    {
+      "id": "sceptique-093",
+      "category": "sceptique",
+      "question": "Avez-vous déjà de l'expérience pour gérer un bureau ?",
+      "answer": "Chaque candidat a un profil et un parcours qui justifient sa candidature à son pôle ; c'est un point qu'un membre du bureau peut détailler directement si vous le souhaitez.",
+      "keywords": [
+        "avez-vous",
+        "deja",
+        "experience",
+        "gerer",
+        "bureau"
+      ]
+    },
+    {
+      "id": "sceptique-094",
+      "category": "sceptique",
+      "question": "Ne risquez-vous pas de vous essouffler après quelques mois ?",
+      "answer": "C'est un risque réel pour tout bureau étudiant ; la répartition en 6 pôles avec des objectifs propres limite la dépendance à une seule personne motivée.",
+      "keywords": [
+        "risquez-vous",
+        "essouffler",
+        "apres",
+        "quelques",
+        "mois"
+      ]
+    },
+    {
+      "id": "sceptique-095",
+      "category": "sceptique",
+      "question": "Comment je peux vérifier que vous ferez vraiment ce que vous annoncez ?",
+      "answer": "En suivant les publications du pôle Communication et le Bilan Trimestriel PDF, qui documenteront l'avancement réel des projets.",
+      "keywords": [
+        "comment",
+        "peux",
+        "verifier",
+        "ferez",
+        "vraiment",
+        "annoncez"
+      ]
+    },
+    {
+      "id": "sceptique-096",
+      "category": "sceptique",
+      "question": "N'est-ce pas facile de promettre avant les élections ?",
+      "answer": "C'est vrai pour toute campagne ; c'est justement pour ça que le programme inclut des outils de suivi vérifiables après l'élection, pas seulement avant.",
+      "keywords": [
+        "facile",
+        "promettre",
+        "avant",
+        "elections"
+      ]
+    },
+    {
+      "id": "sceptique-097",
+      "category": "sceptique",
+      "question": "Pourquoi un programme aussi détaillé si c'est juste pour convaincre ?",
+      "answer": "Le niveau de détail est volontaire : il permet à chacun de juger la cohérence réelle du projet plutôt que de se fier à des slogans.",
+      "keywords": [
+        "pourquoi",
+        "programme",
+        "aussi",
+        "detaille",
+        "juste",
+        "convaincre"
+      ]
+    },
+    {
+      "id": "sceptique-098",
+      "category": "sceptique",
+      "question": "Et si vous changez d'avis une fois élus ?",
+      "answer": "Le programme reste la référence publique ; tout changement significatif serait communiqué et justifié, pas fait en silence.",
+      "keywords": [
+        "changez",
+        "avis",
+        "fois",
+        "elus"
+      ]
+    },
+    {
+      "id": "sceptique-099",
+      "category": "sceptique",
+      "question": "Avez-vous testé la faisabilité de Gbaki avant de le promettre ?",
+      "answer": "Une réflexion technique a été menée sur l'architecture du projet ; c'est un sujet que le Président peut détailler plus précisément si vous le souhaitez.",
+      "keywords": [
+        "avez-vous",
+        "teste",
+        "faisabilite",
+        "gbaki",
+        "avant",
+        "promettre"
+      ]
+    },
+    {
+      "id": "sceptique-100",
+      "category": "sceptique",
+      "question": "Le calendrier d'événements n'est-il pas qu'un copier-coller des années précédentes ?",
+      "answer": "Certaines activités reconduites sont des fondamentaux appréciés (Bizutage, Gala) ; ce qui est nouveau, c'est leur articulation avec les projets RISE (Charisme d'un AS, Stat Insight, etc.).",
+      "keywords": [
+        "calendrier",
+        "evenements",
+        "est-il",
+        "copier-coller",
+        "annees",
+        "precedentes"
+      ]
+    },
+    {
+      "id": "sceptique-101",
+      "category": "sceptique",
+      "question": "Pourquoi je devrais croire que la cotisation des aînés sera suffisante ?",
+      "answer": "Le montant (15 000 à 30 000 FCFA/an) est déjà chiffré dans le programme, ce qui est plus concret qu'une simple intention de financement.",
+      "keywords": [
+        "pourquoi",
+        "devrais",
+        "croire",
+        "cotisation",
+        "aines",
+        "suffisante"
+      ]
+    },
+    {
+      "id": "sceptique-102",
+      "category": "sceptique",
+      "question": "Le bureau précédent avait aussi de bonnes intentions, qu'est-ce qui change vraiment ?",
+      "answer": "La méthode : responsables identifiés par pôle, outils de suivi documentés, et une stratégie de communication structurée pour rendre l'action du bureau visible tout au long de l'année.",
+      "keywords": [
+        "bureau",
+        "precedent",
+        "avait",
+        "aussi",
+        "bonnes",
+        "intentions",
+        "change",
+        "vraiment"
+      ]
+    },
+    {
+      "id": "sceptique-103",
+      "category": "sceptique",
+      "question": "Comment je sais que ce chatbot ne dit pas que ce qui m'arrange ?",
+      "answer": "Ce chatbot s'appuie strictement sur le programme officiel RISE et n'invente aucune information ; en cas de doute, vous pouvez toujours vérifier directement avec un membre du bureau.",
+      "keywords": [
+        "comment",
+        "sais",
+        "chatbot",
+        "dit",
+        "arrange"
+      ]
+    },
+    {
+      "id": "sceptique-104",
+      "category": "sceptique",
+      "question": "N'avez-vous pas peur d'être jugés sur des promesses non tenues ?",
+      "answer": "C'est un risque assumé en acceptant la transparence du Bilan Trimestriel — c'est justement ce mécanisme qui permet d'être jugés sur des faits, pas sur des intentions.",
+      "keywords": [
+        "avez-vous",
+        "peur",
+        "etre",
+        "juges",
+        "promesses",
+        "non",
+        "tenues"
+      ]
+    },
+    {
+      "id": "sceptique-105",
+      "category": "sceptique",
+      "question": "Pourquoi devrais-je voter pour vous plutôt que m'abstenir ?",
+      "answer": "Parce que chaque vote influence directement qui pilotera des projets concrets qui vous concernent (académique, social, financier) pendant un an entier.",
+      "keywords": [
+        "pourquoi",
+        "devrais-je",
+        "voter",
+        "plutot",
+        "abstenir"
+      ]
+    },
+    {
+      "id": "sceptique-106",
+      "category": "sceptique",
+      "question": "Êtes-vous prêts à entendre des critiques après l'élection ?",
+      "answer": "Absolument, c'est même la raison d'être de ce canal de préoccupations directement relié au bureau via WhatsApp.",
+      "keywords": [
+        "etes-vous",
+        "prets",
+        "entendre",
+        "critiques",
+        "apres",
+        "election"
+      ]
+    },
+    {
+      "id": "sceptique-107",
+      "category": "sceptique",
+      "question": "Le programme n'est-il pas trop beau pour être vrai ?",
+      "answer": "C'est légitime d'en douter sur la forme ; le test réel, ce sera l'exécution suivie trimestriellement — c'est sur ce critère qu'il faudra juger.",
+      "keywords": [
+        "programme",
+        "est-il",
+        "trop",
+        "beau",
+        "etre",
+        "vrai"
+      ]
+    },
+    {
+      "id": "piege-108",
+      "category": "piege",
+      "question": "Pourquoi faire une Journée Alumni alors qu'il existe déjà la Semaine de l'Analyste ?",
+      "answer": "Bonne question, on l'a anticipée : la Semaine de l'Analyste valorise le métier en général sur 7 jours ; la Journée Alumni crée un lien direct et personnalisé entre étudiants actuels et anciens, autour du mentorat. Ce sont deux formats complémentaires, pas un doublon.",
+      "keywords": [
+        "pourquoi",
+        "journee",
+        "alumni",
+        "alors",
+        "existe",
+        "deja",
+        "semaine",
+        "analyste"
+      ]
+    },
+    {
+      "id": "piege-109",
+      "category": "piege",
+      "question": "Pourquoi investir dans un site web alors qu'il y a WhatsApp ?",
+      "answer": "WhatsApp est excellent pour la proximité immédiate, mais un site web donne une vitrine permanente, structurée et consultable par n'importe qui (futurs étudiants, partenaires, alumni) — un rôle que WhatsApp ne remplit pas.",
+      "keywords": [
+        "pourquoi",
+        "investir",
+        "site",
+        "web",
+        "alors",
+        "whatsapp"
+      ]
+    },
+    {
+      "id": "piege-110",
+      "category": "piege",
+      "question": "Si Gbaki existe déjà sous une autre forme ailleurs, pourquoi le refaire ?",
+      "answer": "Parce qu'aucun outil existant n'est pensé spécifiquement pour les besoins de la DAS ENSEA ; Gbaki est construit autour de ces besoins précis, pas une copie générique.",
+      "keywords": [
+        "gbaki",
+        "existe",
+        "deja",
+        "sous",
+        "autre",
+        "forme",
+        "ailleurs",
+        "pourquoi"
+      ]
+    },
+    {
+      "id": "piege-111",
+      "category": "piege",
+      "question": "Pourquoi un Kit Pharmaceutique si l'école a déjà une infirmerie ?",
+      "answer": "Le Kit Pharmaceutique est un complément de premier secours géré au niveau de la Division, pas un remplacement de l'infirmerie, pour répondre à des besoins immédiats et quotidiens.",
+      "keywords": [
+        "pourquoi",
+        "kit",
+        "pharmaceutique",
+        "ecole",
+        "deja",
+        "infirmerie"
+      ]
+    },
+    {
+      "id": "piege-112",
+      "category": "piege",
+      "question": "N'est-ce pas contradictoire de demander une cotisation des aînés tout en prévoyant un Kit Pharmaceutique solidaire pour tous ?",
+      "answer": "Non, c'est exactement la logique inverse : ce sont les aînés qui contribuent pour financer un service dont bénéficient tous les AS, y compris les plus jeunes qui n'ont pas encore cotisé.",
+      "keywords": [
+        "contradictoire",
+        "demander",
+        "cotisation",
+        "aines",
+        "tout",
+        "prevoyant",
+        "kit",
+        "pharmaceutique"
+      ]
+    },
+    {
+      "id": "piege-113",
+      "category": "piege",
+      "question": "Si vous valorisez tant les AS méritants, n'excluez-vous pas ceux qui ont des difficultés ?",
+      "answer": "Au contraire, le Suivi Académique mensuel et le tutorat via Gbaki visent justement à accompagner ceux qui sont en difficulté, en parallèle de la valorisation de la réussite.",
+      "keywords": [
+        "valorisez",
+        "tant",
+        "meritants",
+        "excluez-vous",
+        "ceux",
+        "difficultes"
+      ]
+    },
+    {
+      "id": "piege-114",
+      "category": "piege",
+      "question": "Pourquoi un Vendredi Polo si certains étudiants n'ont pas les moyens d'en acheter un ?",
+      "answer": "C'est une remarque légitime à transmettre directement au pôle Finances, qui peut détailler les modalités d'accès prévues pour que ça reste inclusif.",
+      "keywords": [
+        "pourquoi",
+        "vendredi",
+        "polo",
+        "certains",
+        "etudiants",
+        "moyens",
+        "acheter"
+      ]
+    },
+    {
+      "id": "piege-115",
+      "category": "piege",
+      "question": "Si AS Carrière promet des stages, garantissez-vous un emploi à tous ?",
+      "answer": "Non, et ce serait malhonnête de le promettre ; AS Carrière facilite la mise en relation et la diffusion d'opportunités, la suite dépend du parcours de chacun.",
+      "keywords": [
+        "carriere",
+        "promet",
+        "stages",
+        "garantissez-vous",
+        "emploi",
+        "tous"
+      ]
+    },
+    {
+      "id": "piege-116",
+      "category": "piege",
+      "question": "Pourquoi parler d'excellence dans votre devise si certains projets sont encore flous ?",
+      "answer": "L'excellence est un objectif vers lequel on tend, pas un état déjà acquis ; le programme assume une marge de progression suivie via le Bilan Trimestriel.",
+      "keywords": [
+        "pourquoi",
+        "parler",
+        "excellence",
+        "devise",
+        "certains",
+        "projets",
+        "encore",
+        "flous"
+      ]
+    },
+    {
+      "id": "piege-117",
+      "category": "piege",
+      "question": "Si la communication est si importante, pourquoi n'avez-vous pas déjà plus de contenu publié ?",
+      "answer": "La stratégie démarre officiellement avec la prise de fonction du bureau ; la phase de campagne sert à présenter le plan, pas encore à l'exécuter en totalité.",
+      "keywords": [
+        "communication",
+        "importante",
+        "pourquoi",
+        "avez-vous",
+        "deja",
+        "contenu",
+        "publie"
+      ]
+    },
+    {
+      "id": "piege-118",
+      "category": "piege",
+      "question": "N'est-il pas paradoxal de promettre un suivi académique rigoureux tout en multipliant les événements festifs ?",
+      "answer": "Les deux répondent à des besoins différents et complémentaires : la réussite académique d'un côté, l'équilibre et la cohésion sociale de l'autre. L'un ne va pas sans l'autre.",
+      "keywords": [
+        "est-il",
+        "paradoxal",
+        "promettre",
+        "suivi",
+        "academique",
+        "rigoureux",
+        "tout",
+        "multipliant"
+      ]
+    },
+    {
+      "id": "piege-119",
+      "category": "piege",
+      "question": "Pourquoi le Président porte-t-il Gbaki ET AS Projet ET AS International, n'est-ce pas trop pour une seule personne ?",
+      "answer": "Ces trois projets partagent une même vision stratégique globale, ce qui justifie un pilotage unifié par la Présidence, avec des relais opérationnels (Commission Gbaki notamment) pour ne pas tout porter seul.",
+      "keywords": [
+        "pourquoi",
+        "president",
+        "porte-t-il",
+        "gbaki",
+        "projet",
+        "international",
+        "trop",
+        "seule"
+      ]
+    },
+    {
+      "id": "piege-120",
+      "category": "piege",
+      "question": "Si vous critiquez l'ancien bureau implicitement, n'est-ce pas contradictoire de reconduire certaines de ses activités ?",
+      "answer": "RISE ne critique pas l'ancien bureau ; certaines activités (Gala, Bizutage) sont des fondamentaux appréciés par les étudiants, reconduits parce qu'ils fonctionnent, pas par manque d'idées.",
+      "keywords": [
+        "critiquez",
+        "ancien",
+        "bureau",
+        "implicitement",
+        "contradictoire",
+        "reconduire",
+        "certaines",
+        "activites"
+      ]
+    },
+    {
+      "id": "piege-121",
+      "category": "piege",
+      "question": "Pourquoi promettre l'excellence tout en acceptant dès maintenant que tout ne sera pas réalisé ?",
+      "answer": "Parce que l'honnêteté sur les limites fait justement partie d'une démarche d'excellence sérieuse, plutôt que des promesses irréalistes non tenues.",
+      "keywords": [
+        "pourquoi",
+        "promettre",
+        "excellence",
+        "tout",
+        "acceptant",
+        "maintenant",
+        "realise"
+      ]
+    },
+    {
+      "id": "piege-122",
+      "category": "piege",
+      "question": "Si le financement dépend des aînés, que se passe-t-il si la promotion actuelle n'a pas d'aînés généreux ?",
+      "answer": "C'est un risque identifié, d'où la recherche active de financements complémentaires prévue par le pôle Finances en parallèle.",
+      "keywords": [
+        "financement",
+        "depend",
+        "aines",
+        "passe-t-il",
+        "promotion",
+        "actuelle",
+        "genereux"
+      ]
+    },
+    {
+      "id": "piege-123",
+      "category": "piege",
+      "question": "Pourquoi parler de \"Rêve\" dans votre devise si le programme est censé être réaliste ?",
+      "answer": "Le Rêve, c'est la vision qui inspire ; la Stratégie, c'est ce qui la rend réalisable étape par étape. Les deux mots de la devise se complètent, ils ne se contredisent pas.",
+      "keywords": [
+        "pourquoi",
+        "parler",
+        "reve",
+        "devise",
+        "programme",
+        "cense",
+        "etre",
+        "realiste"
+      ]
+    },
+    {
+      "id": "piege-124",
+      "category": "piege",
+      "question": "N'est-ce pas risqué de promettre une appli (Gbaki) ET une stratégie YouTube mensuelle ET un site web la même année ?",
+      "answer": "Ce sont des responsables différents (Présidence, Communication, Vice-Présidence) avec des plannings propres ; le risque de surcharge sur une seule personne est donc limité, même si l'ambition globale reste élevée.",
+      "keywords": [
+        "risque",
+        "promettre",
+        "appli",
+        "gbaki",
+        "strategie",
+        "youtube",
+        "mensuelle",
+        "site"
+      ]
+    },
+    {
+      "id": "piege-125",
+      "category": "piege",
+      "question": "Si un étudiant n'est pas sur les réseaux sociaux, comment vivra-t-il avec votre stratégie tout-digital ?",
+      "answer": "La stratégie est multicanale justement pour ça (affiches WhatsApp, événements physiques via l'Organisation), pas uniquement digitale.",
+      "keywords": [
+        "etudiant",
+        "reseaux",
+        "sociaux",
+        "comment",
+        "vivra-t-il",
+        "strategie",
+        "tout-digital"
+      ]
+    },
+    {
+      "id": "piege-126",
+      "category": "piege",
+      "question": "Pourquoi RISE et pas une autre liste, concrètement ?",
+      "answer": "La réponse honnête : c'est à chaque étudiant de comparer les programmes sur leur précision et leur réalisme ; RISE propose une méthode de suivi vérifiable (Bilan Trimestriel) qui distingue son approche.",
+      "keywords": [
+        "pourquoi",
+        "rise",
+        "autre",
+        "liste",
+        "concretement"
+      ]
+    },
+    {
+      "id": "piege-127",
+      "category": "piege",
+      "question": "Si vous perdez, soutiendrez-vous quand même les bonnes idées du bureau élu ?",
+      "answer": "Oui, sans hésitation — l'objectif final reste le bien de la DAS, au-delà de la compétition électorale.",
+      "keywords": [
+        "perdez",
+        "soutiendrez-vous",
+        "quand",
+        "meme",
+        "bonnes",
+        "idees",
+        "bureau",
+        "elu"
+      ]
+    },
+    {
+      "id": "comparative-128",
+      "category": "comparative",
+      "question": "Qu'avez-vous de plus que les autres listes ?",
+      "answer": "Un programme structuré en 6 pôles avec des responsables clairs sur chaque projet, et un mécanisme de suivi public (Bilan Trimestriel) pour vérifier l'avancement réel après l'élection.",
+      "keywords": [
+        "avez-vous",
+        "autres",
+        "listes"
+      ]
+    },
+    {
+      "id": "comparative-129",
+      "category": "comparative",
+      "question": "Quelle est votre différence avec le bureau précédent ?",
+      "answer": "La méthode de suivi et de transparence (Bilan Trimestriel, communication multicanale régulière) et de nouveaux projets ciblés (Gbaki, Kit Pharmaceutique, Charisme d'un AS).",
+      "keywords": [
+        "difference",
+        "bureau",
+        "precedent"
+      ]
+    },
+    {
+      "id": "comparative-130",
+      "category": "comparative",
+      "question": "En quoi votre communication est-elle différente des autres campagnes ?",
+      "answer": "Elle est pensée pour durer tout le mandat (stratégie multicanale planifiée), pas seulement pour la période électorale.",
+      "keywords": [
+        "communication",
+        "est-elle",
+        "differente",
+        "autres",
+        "campagnes"
+      ]
+    },
+    {
+      "id": "comparative-131",
+      "category": "comparative",
+      "question": "Votre programme est-il plus réaliste que les autres ?",
+      "answer": "Ce n'est pas à nous d'en juger ; on peut dire que chaque projet a un porteur identifié et un lien clair avec un besoin réel des AS, ce qui en facilite l'évaluation.",
+      "keywords": [
+        "programme",
+        "est-il",
+        "realiste",
+        "autres"
+      ]
+    },
+    {
+      "id": "comparative-132",
+      "category": "comparative",
+      "question": "Pourquoi voter RISE plutôt que de s'abstenir ?",
+      "answer": "Parce que l'abstention laisse d'autres décider à votre place de qui pilotera des projets qui vous concernent directement pendant un an.",
+      "keywords": [
+        "pourquoi",
+        "voter",
+        "rise",
+        "plutot",
+        "abstenir"
+      ]
+    },
+    {
+      "id": "comparative-133",
+      "category": "comparative",
+      "question": "Votre équipe est-elle plus compétente que les autres listes ?",
+      "answer": "Chaque candidat a un profil pertinent pour son pôle ; la compétence se jugera surtout à l'exécution, pas à l'auto-déclaration.",
+      "keywords": [
+        "equipe",
+        "est-elle",
+        "competente",
+        "autres",
+        "listes"
+      ]
+    },
+    {
+      "id": "comparative-134",
+      "category": "comparative",
+      "question": "Avez-vous un programme plus complet que les autres ?",
+      "answer": "Le programme couvre 6 dimensions (vision, communication, organisation, administratif, finances, rayonnement externe) de façon équilibrée, ce qui en fait un ensemble cohérent plutôt qu'une accumulation.",
+      "keywords": [
+        "avez-vous",
+        "programme",
+        "complet",
+        "autres"
+      ]
+    },
+    {
+      "id": "comparative-135",
+      "category": "comparative",
+      "question": "Qu'est-ce qui distingue Gbaki d'une simple page Facebook de groupe ?",
+      "answer": "Gbaki centralise des fonctionnalités multiples (ressources, IA, réseau, boutique) dans un outil dédié, alors qu'un groupe Facebook reste un espace de discussion non structuré.",
+      "keywords": [
+        "distingue",
+        "gbaki",
+        "simple",
+        "page",
+        "facebook",
+        "groupe"
+      ]
+    },
+    {
+      "id": "comparative-136",
+      "category": "comparative",
+      "question": "Votre programme est-il copié sur d'autres écoles ?",
+      "answer": "Le programme s'inspire de bonnes pratiques observées ailleurs tout en étant adapté spécifiquement aux besoins identifiés à la DAS ENSEA.",
+      "keywords": [
+        "programme",
+        "est-il",
+        "copie",
+        "autres",
+        "ecoles"
+      ]
+    },
+    {
+      "id": "comparative-137",
+      "category": "comparative",
+      "question": "Pourquoi devrais-je préférer RISE à une liste plus expérimentée ?",
+      "answer": "L'expérience compte, mais la qualité d'un programme et la clarté de son exécution comptent tout autant ; c'est sur ces critères que RISE se positionne.",
+      "keywords": [
+        "pourquoi",
+        "devrais-je",
+        "preferer",
+        "rise",
+        "liste",
+        "experimentee"
+      ]
+    },
+    {
+      "id": "comparative-138",
+      "category": "comparative",
+      "question": "Votre liste est-elle plus unie que les autres ?",
+      "answer": "On ne peut pas comparer ce qu'on ne connaît pas des autres listes ; ce qu'on peut affirmer, c'est la répartition claire des rôles au sein de RISE.",
+      "keywords": [
+        "liste",
+        "est-elle",
+        "unie",
+        "autres"
+      ]
+    },
+    {
+      "id": "comparative-139",
+      "category": "comparative",
+      "question": "Quelle est la valeur ajoutée du Kit Pharmaceutique par rapport à ce qui existe déjà ?",
+      "answer": "Un dispositif géré au niveau de la Division, accessible directement à tous les AS, sans dépendre d'une démarche individuelle longue.",
+      "keywords": [
+        "valeur",
+        "ajoutee",
+        "kit",
+        "pharmaceutique",
+        "rapport",
+        "existe",
+        "deja"
+      ]
+    },
+    {
+      "id": "comparative-140",
+      "category": "comparative",
+      "question": "En quoi votre stratégie financière diffère-t-elle des autres listes ?",
+      "answer": "Elle est chiffrée dès maintenant (15 000 à 30 000 FCFA/an pour les aînés) plutôt que vague, ce qui permet d'en juger le réalisme directement.",
+      "keywords": [
+        "strategie",
+        "financiere",
+        "differe-t-elle",
+        "autres",
+        "listes"
+      ]
+    },
+    {
+      "id": "comparative-141",
+      "category": "comparative",
+      "question": "Pourquoi votre devise est-elle différente des autres ?",
+      "answer": "Rêve • Impact • Stratégie • Excellence reflète directement la structure du programme : une vision (Rêve), des résultats concrets (Impact), une méthode (Stratégie), un niveau d'exigence (Excellence).",
+      "keywords": [
+        "pourquoi",
+        "devise",
+        "est-elle",
+        "differente",
+        "autres"
+      ]
+    },
+    {
+      "id": "comparative-142",
+      "category": "comparative",
+      "question": "Si une autre liste propose une idée similaire à la vôtre, qu'en pensez-vous ?",
+      "answer": "C'est plutôt positif : si plusieurs listes identifient les mêmes besoins, cela confirme leur pertinence pour les étudiants — peu importe qui les propose en premier.",
+      "keywords": [
+        "autre",
+        "liste",
+        "propose",
+        "idee",
+        "similaire",
+        "pensez-vous"
+      ]
+    },
+    {
+      "id": "financiere-143",
+      "category": "financiere",
+      "question": "Qui va financer tout cela ?",
+      "answer": "Principalement la contribution des aînés (15 000 à 30 000 FCFA/an selon expérience) et une recherche active de financements complémentaires pilotée par le pôle Finances.",
+      "keywords": [
+        "financer",
+        "tout"
+      ]
+    },
+    {
+      "id": "financiere-144",
+      "category": "financiere",
+      "question": "Combien coûtera Gbaki ?",
+      "answer": "Le coût précis dépend des choix techniques qui seront affinés avec la Commission Gbaki ; c'est une question à poser directement à la Présidence pour le détail budgétaire.",
+      "keywords": [
+        "combien",
+        "coutera",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "financiere-145",
+      "category": "financiere",
+      "question": "Combien coûtera le polo officiel DAS ?",
+      "answer": "Le tarif exact sera communiqué par le pôle Finances une fois les fournisseurs validés.",
+      "keywords": [
+        "combien",
+        "coutera",
+        "polo",
+        "officiel",
+        "das"
+      ]
+    },
+    {
+      "id": "financiere-146",
+      "category": "financiere",
+      "question": "La cotisation est-elle obligatoire ?",
+      "answer": "La contribution concerne principalement les aînés selon le programme ; les modalités précises sont à confirmer directement avec le pôle Finances.",
+      "keywords": [
+        "cotisation",
+        "est-elle",
+        "obligatoire"
+      ]
+    },
+    {
+      "id": "financiere-147",
+      "category": "financiere",
+      "question": "Que se passe-t-il si les financements recherchés n'aboutissent pas ?",
+      "answer": "Les projets seront priorisés selon les ressources réellement disponibles ; ce qui est budgété en premier (Kit Pharmaceutique, activités de base) reste la priorité.",
+      "keywords": [
+        "passe-t-il",
+        "financements",
+        "recherches",
+        "aboutissent"
+      ]
+    },
+    {
+      "id": "financiere-148",
+      "category": "financiere",
+      "question": "Le Kit Pharmaceutique sera-t-il gratuit pour les étudiants ?",
+      "answer": "Oui, il est conçu comme un dispositif solidaire accessible à tous les AS, financé en amont par les cotisations et contributions.",
+      "keywords": [
+        "kit",
+        "pharmaceutique",
+        "sera-t-il",
+        "gratuit",
+        "etudiants"
+      ]
+    },
+    {
+      "id": "financiere-149",
+      "category": "financiere",
+      "question": "Comment sera assurée la transparence financière du bureau ?",
+      "answer": "Le pôle Finances est responsable du suivi budgétaire, et le Bilan Trimestriel peut intégrer cette dimension financière à la demande des étudiants.",
+      "keywords": [
+        "comment",
+        "assuree",
+        "transparence",
+        "financiere",
+        "bureau"
+      ]
+    },
+    {
+      "id": "financiere-150",
+      "category": "financiere",
+      "question": "Qui décide de l'utilisation des fonds collectés ?",
+      "answer": "Le pôle Finances, en coordination avec la Présidence pour les arbitrages stratégiques.",
+      "keywords": [
+        "decide",
+        "utilisation",
+        "fonds",
+        "collectes"
+      ]
+    },
+    {
+      "id": "financiere-151",
+      "category": "financiere",
+      "question": "Y a-t-il un budget prévisionnel publié ?",
+      "answer": "Le détail budgétaire précis est à demander directement au Chargé aux Finances, Jérémie GBOSSA.",
+      "keywords": [
+        "a-t-il",
+        "budget",
+        "previsionnel",
+        "publie"
+      ]
+    },
+    {
+      "id": "financiere-152",
+      "category": "financiere",
+      "question": "Le financement dépend-il uniquement des étudiants eux-mêmes ?",
+      "answer": "Non, le programme prévoit explicitement une recherche active de financements externes en complément de la contribution des aînés.",
+      "keywords": [
+        "financement",
+        "depend-il",
+        "uniquement",
+        "etudiants",
+        "eux-memes"
+      ]
+    },
+    {
+      "id": "financiere-153",
+      "category": "financiere",
+      "question": "Pourquoi ne pas solliciter directement l'administration de l'ENSEA pour financer Gbaki ?",
+      "answer": "C'est une piste tout à fait pertinente à transmettre au pôle Finances, qui explore différentes sources de financement.",
+      "keywords": [
+        "pourquoi",
+        "solliciter",
+        "directement",
+        "administration",
+        "ensea",
+        "financer",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "financiere-154",
+      "category": "financiere",
+      "question": "Les gadgets officiels DAS seront-ils payants ?",
+      "answer": "Les modalités précises (gratuité, prix) seront communiquées par le pôle Finances selon le type de gadget.",
+      "keywords": [
+        "gadgets",
+        "officiels",
+        "das",
+        "seront-ils",
+        "payants"
+      ]
+    },
+    {
+      "id": "financiere-155",
+      "category": "financiere",
+      "question": "Que couvre exactement la contribution des aînés ?",
+      "answer": "Elle finance notamment le Kit Pharmaceutique et les projets nécessitant un budget partagé, selon les priorités définies par le bureau.",
+      "keywords": [
+        "couvre",
+        "exactement",
+        "contribution",
+        "aines"
+      ]
+    },
+    {
+      "id": "financiere-156",
+      "category": "financiere",
+      "question": "Le budget alloué à la Communication est-il suffisant pour la stratégie annoncée ?",
+      "answer": "La stratégie est pensée pour rester soutenable avec des moyens raisonnables (contenu propre plutôt que publicité payante) ; le détail est à voir avec le pôle Communication.",
+      "keywords": [
+        "budget",
+        "alloue",
+        "communication",
+        "est-il",
+        "suffisant",
+        "strategie",
+        "annoncee"
+      ]
+    },
+    {
+      "id": "financiere-157",
+      "category": "financiere",
+      "question": "Y a-t-il un risque de déficit budgétaire en cours de mandat ?",
+      "answer": "C'est un risque pour tout bureau étudiant ; la recherche active de financements complémentaires vise justement à le limiter.",
+      "keywords": [
+        "a-t-il",
+        "risque",
+        "deficit",
+        "budgetaire",
+        "cours",
+        "mandat"
+      ]
+    },
+    {
+      "id": "faisabilite-158",
+      "category": "faisabilite",
+      "question": "Qui va développer l'application Gbaki ?",
+      "answer": "Le Président pilote le projet avec une Commission Gbaki dédiée ; le détail des compétences mobilisées est à voir directement avec lui.",
+      "keywords": [
+        "developper",
+        "application",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "faisabilite-159",
+      "category": "faisabilite",
+      "question": "Qui produira les vidéos YouTube ?",
+      "answer": "Le pôle Communication, sous la responsabilité de Dissami Daniel SALIFOU, avec un rythme visé d'une vidéo par mois.",
+      "keywords": [
+        "produira",
+        "videos",
+        "youtube"
+      ]
+    },
+    {
+      "id": "faisabilite-160",
+      "category": "faisabilite",
+      "question": "Avez-vous déjà des partenaires entreprises pour AS Projet ?",
+      "answer": "Les partenariats sont en cours de construction ; c'est un point que la Présidence peut détailler sur l'avancement réel.",
+      "keywords": [
+        "avez-vous",
+        "deja",
+        "partenaires",
+        "entreprises",
+        "projet"
+      ]
+    },
+    {
+      "id": "faisabilite-161",
+      "category": "faisabilite",
+      "question": "Le Bootcamp d'intégration sera-t-il prêt dès la rentrée ?",
+      "answer": "C'est l'objectif visé par la Secrétaire Générale ; le calendrier précis de préparation est à confirmer avec elle.",
+      "keywords": [
+        "bootcamp",
+        "integration",
+        "sera-t-il",
+        "pret",
+        "rentree"
+      ]
+    },
+    {
+      "id": "faisabilite-162",
+      "category": "faisabilite",
+      "question": "Comment garantir la régularité du Suivi Académique mensuel sur toute une année ?",
+      "answer": "En l'intégrant comme une routine fixe du pôle Secrétariat Général dès le début du mandat, plutôt qu'une action ponctuelle.",
+      "keywords": [
+        "comment",
+        "garantir",
+        "regularite",
+        "suivi",
+        "academique",
+        "mensuel",
+        "toute",
+        "annee"
+      ]
+    },
+    {
+      "id": "faisabilite-163",
+      "category": "faisabilite",
+      "question": "Une seule personne peut-elle vraiment gérer WhatsApp, Facebook, LinkedIn et YouTube ?",
+      "answer": "C'est exigeant, d'où une planification de contenu mensuelle plutôt qu'une production quotidienne sur chaque canal, pour rester soutenable.",
+      "keywords": [
+        "seule",
+        "personne",
+        "peut-elle",
+        "vraiment",
+        "gerer",
+        "whatsapp",
+        "facebook",
+        "linkedin"
+      ]
+    },
+    {
+      "id": "faisabilite-164",
+      "category": "faisabilite",
+      "question": "Le calendrier d'événements de l'Organisation est-il réaliste sur une seule année ?",
+      "answer": "Il est dense mais réparti sur l'année entière, avec des formats variés (certains très simples à organiser, d'autres plus structurés).",
+      "keywords": [
+        "calendrier",
+        "evenements",
+        "organisation",
+        "est-il",
+        "realiste",
+        "seule",
+        "annee"
+      ]
+    },
+    {
+      "id": "faisabilite-165",
+      "category": "faisabilite",
+      "question": "Comment vérifier que les partenariats internationaux annoncés sont sérieux ?",
+      "answer": "Le détail des contacts et démarches engagées est à demander directement à la Secrétaire Générale, en charge de ce volet.",
+      "keywords": [
+        "comment",
+        "verifier",
+        "partenariats",
+        "internationaux",
+        "annonces",
+        "serieux"
+      ]
+    },
+    {
+      "id": "faisabilite-166",
+      "category": "faisabilite",
+      "question": "Le site web DAS sera-t-il prêt avant la fin du mandat ?",
+      "answer": "C'est l'objectif affiché par la Vice-Présidence ; le calendrier de développement précis est à confirmer avec elle.",
+      "keywords": [
+        "site",
+        "web",
+        "das",
+        "sera-t-il",
+        "pret",
+        "avant",
+        "fin",
+        "mandat"
+      ]
+    },
+    {
+      "id": "faisabilite-167",
+      "category": "faisabilite",
+      "question": "Qui va gérer concrètement le stock du Kit Pharmaceutique ?",
+      "answer": "Un comité de régulation dédié, sous la responsabilité de la Secrétaire Générale.",
+      "keywords": [
+        "gerer",
+        "concretement",
+        "stock",
+        "kit",
+        "pharmaceutique"
+      ]
+    },
+    {
+      "id": "faisabilite-168",
+      "category": "faisabilite",
+      "question": "Avez-vous une expérience préalable en gestion de projet pour porter Gbaki ?",
+      "answer": "C'est une question légitime sur les compétences ; le Président peut détailler directement son parcours et celui de la Commission Gbaki.",
+      "keywords": [
+        "avez-vous",
+        "experience",
+        "prealable",
+        "gestion",
+        "projet",
+        "porter",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "faisabilite-169",
+      "category": "faisabilite",
+      "question": "Le rythme d'une vidéo par mois est-il suffisant pour \"tripler la visibilité\" ?",
+      "answer": "La vidéo YouTube est un format parmi d'autres (WhatsApp, Facebook, LinkedIn ont leurs propres rythmes plus fréquents) ; c'est l'ensemble multicanal qui vise cet objectif, pas un seul format isolé.",
+      "keywords": [
+        "rythme",
+        "video",
+        "mois",
+        "est-il",
+        "suffisant",
+        "tripler",
+        "visibilite"
+      ]
+    },
+    {
+      "id": "faisabilite-170",
+      "category": "faisabilite",
+      "question": "Comment le bureau va-t-il gérer les imprévus (annulation d'événement, retard technique) ?",
+      "answer": "Aucun plan ne peut tout anticiper ; la communication régulière et le Bilan Trimestriel permettent d'ajuster et d'informer les étudiants en cas de changement.",
+      "keywords": [
+        "comment",
+        "bureau",
+        "va-t-il",
+        "gerer",
+        "imprevus",
+        "annulation",
+        "evenement",
+        "retard"
+      ]
+    },
+    {
+      "id": "faisabilite-171",
+      "category": "faisabilite",
+      "question": "Le Vendredi Polo est-il vraiment réalisable chaque semaine sans exception ?",
+      "answer": "C'est l'objectif visé, avec une tolérance naturelle pour les imprévus (lessive, disponibilité) sans en faire une obligation stricte.",
+      "keywords": [
+        "vendredi",
+        "polo",
+        "est-il",
+        "vraiment",
+        "realisable",
+        "chaque",
+        "semaine",
+        "exception"
+      ]
+    },
+    {
+      "id": "faisabilite-172",
+      "category": "faisabilite",
+      "question": "Avez-vous testé la faisabilité technique de l'IA intégrée à Gbaki ?",
+      "answer": "Une réflexion technique est en cours avec la Commission Gbaki ; c'est un point que le Président peut détailler sur les outils envisagés.",
+      "keywords": [
+        "avez-vous",
+        "teste",
+        "faisabilite",
+        "technique",
+        "integree",
+        "gbaki"
+      ]
+    },
+    {
+      "id": "opposition-173",
+      "category": "opposition",
+      "question": "Je pense que votre programme est irréaliste.",
+      "answer": "C'est un avis respectable, et il mérite une vraie réponse plutôt qu'un slogan : quels points précisément vous semblent irréalistes ? Je peux détailler comment ils sont organisés concrètement.",
+      "keywords": [
+        "pense",
+        "programme",
+        "irrealiste"
+      ]
+    },
+    {
+      "id": "opposition-174",
+      "category": "opposition",
+      "question": "Vous promettez trop.",
+      "answer": "C'est un risque qu'on assume en étant transparents dès maintenant : tout ne sera pas réalisé au même rythme, et le Bilan Trimestriel permettra de suivre l'avancement réel plutôt que de juger sur la seule promesse de départ.",
+      "keywords": [
+        "promettez",
+        "trop"
+      ]
+    },
+    {
+      "id": "opposition-175",
+      "category": "opposition",
+      "question": "Je ne voterai pas pour vous.",
+      "answer": "C'est votre droit le plus légitime, et c'est respecté. Si vous avez des réserves précises, je suis là pour y répondre, sans chercher à vous convaincre de force.",
+      "keywords": [
+        "voterai"
+      ]
+    },
+    {
+      "id": "opposition-176",
+      "category": "opposition",
+      "question": "Votre programme ne m'intéresse pas.",
+      "answer": "Je comprends, tout le monde n'a pas les mêmes priorités. Y a-t-il un sujet particulier (académique, social, financier) qui vous parlerait davantage ?",
+      "keywords": [
+        "programme",
+        "interesse"
+      ]
+    },
+    {
+      "id": "opposition-177",
+      "category": "opposition",
+      "question": "Je préfère une autre liste.",
+      "answer": "C'est tout à fait votre choix, et c'est sain qu'il y ait plusieurs options. Si vous voulez, je peux quand même répondre à vos questions sur RISE pour que votre comparaison soit complète.",
+      "keywords": [
+        "prefere",
+        "autre",
+        "liste"
+      ]
+    },
+    {
+      "id": "opposition-178",
+      "category": "opposition",
+      "question": "Vous ne faites ça que pour votre CV.",
+      "answer": "C'est une critique qu'on entend souvent en contexte étudiant ; la meilleure réponse, ce sera l'exécution réelle du programme, pas une justification d'intention.",
+      "keywords": []
+    },
+    {
+      "id": "opposition-179",
+      "category": "opposition",
+      "question": "Votre équipe n'est pas assez expérimentée.",
+      "answer": "C'est un doute légitime pour un premier mandat de certains candidats ; chacun peut détailler son parcours directement, et la structure en 6 pôles limite la dépendance à l'expérience d'une seule personne.",
+      "keywords": [
+        "equipe",
+        "assez",
+        "experimentee"
+      ]
+    },
+    {
+      "id": "opposition-180",
+      "category": "opposition",
+      "question": "Je trouve votre communication trop agressive.",
+      "answer": "Merci de le signaler, ce n'est clairement pas l'intention recherchée ; la communication RISE se veut valorisante et inclusive, n'hésitez pas à préciser ce qui vous a semblé excessif.",
+      "keywords": [
+        "trouve",
+        "communication",
+        "trop",
+        "agressive"
+      ]
+    },
+    {
+      "id": "opposition-181",
+      "category": "opposition",
+      "question": "Vous ne représentez pas vraiment les étudiants.",
+      "answer": "C'est un point sur lequel on peut toujours s'améliorer ; les préoccupations soumises ici sont directement transmises au bureau, justement pour rester à l'écoute.",
+      "keywords": [
+        "representez",
+        "vraiment",
+        "etudiants"
+      ]
+    },
+    {
+      "id": "opposition-182",
+      "category": "opposition",
+      "question": "Votre devise n'est qu'un slogan vide.",
+      "answer": "C'est compréhensible si elle n'est pas encore associée à des actions concrètes à vos yeux ; chacun des quatre mots correspond à une partie réelle du programme, qu'on peut détailler.",
+      "keywords": [
+        "devise",
+        "slogan",
+        "vide"
+      ]
+    },
+    {
+      "id": "opposition-183",
+      "category": "opposition",
+      "question": "Je pense que vous allez décevoir.",
+      "answer": "C'est un risque honnête pour tout bureau étudiant ; ce qu'on peut proposer, c'est un suivi documenté pour que la déception, si elle arrive, soit basée sur des faits vérifiables, pas sur des impressions.",
+      "keywords": [
+        "pense",
+        "allez",
+        "decevoir"
+      ]
+    },
+    {
+      "id": "opposition-184",
+      "category": "opposition",
+      "question": "Vous n'avez pas de plan B si un projet échoue.",
+      "answer": "Chaque pôle reste autonome dans son fonctionnement ; l'échec d'un projet n'entraîne pas l'échec des cinq autres, c'est une forme de plan B structurel.",
+      "keywords": [
+        "plan",
+        "projet",
+        "echoue"
+      ]
+    },
+    {
+      "id": "opposition-185",
+      "category": "opposition",
+      "question": "Je ne crois pas que le bureau change vraiment la vie des étudiants.",
+      "answer": "C'est une question légitime sur l'utilité même du bureau ; des actions comme le Kit Pharmaceutique ou AS Carrière visent justement un impact concret et mesurable, pas seulement symbolique.",
+      "keywords": [
+        "crois",
+        "bureau",
+        "change",
+        "vraiment",
+        "vie",
+        "etudiants"
+      ]
+    },
+    {
+      "id": "opposition-186",
+      "category": "opposition",
+      "question": "Votre liste n'a pas de vision claire.",
+      "answer": "La vision est résumée dans la devise et déclinée pôle par pôle dans le programme ; si un point précis manque de clarté, je peux l'expliquer davantage.",
+      "keywords": [
+        "liste",
+        "vision",
+        "claire"
+      ]
+    },
+    {
+      "id": "opposition-187",
+      "category": "opposition",
+      "question": "Je pense que vous dites ce que les gens veulent entendre.",
+      "answer": "C'est une vigilance saine à avoir envers toute campagne ; le test, c'est la cohérence entre ce qui est dit aujourd'hui et ce qui sera publié dans le Bilan Trimestriel demain.",
+      "keywords": [
+        "pense",
+        "dites",
+        "gens",
+        "veulent",
+        "entendre"
+      ]
+    },
+    {
+      "id": "emotionnelle-188",
+      "category": "emotionnelle",
+      "question": "Pourquoi vous présentez-vous ?",
+      "answer": "Chaque candidat a sa propre motivation, mais le fil commun, c'est l'envie de faire vivre la DAS autrement, avec plus de cohésion, de visibilité et d'accompagnement concret pour les AS.",
+      "keywords": [
+        "pourquoi",
+        "presentez-vous"
+      ]
+    },
+    {
+      "id": "emotionnelle-189",
+      "category": "emotionnelle",
+      "question": "Qu'est-ce qui vous motive réellement ?",
+      "answer": "L'envie de voir la filière Analyste Statisticien gagner en reconnaissance et en force collective, au-delà d'un simple mandat d'un an.",
+      "keywords": [
+        "motive",
+        "reellement"
+      ]
+    },
+    {
+      "id": "emotionnelle-190",
+      "category": "emotionnelle",
+      "question": "Avez-vous peur de perdre les élections ?",
+      "answer": "C'est humain d'y penser, mais l'énergie est surtout mise dans la qualité du programme plutôt que dans la peur du résultat.",
+      "keywords": [
+        "avez-vous",
+        "peur",
+        "perdre",
+        "elections"
+      ]
+    },
+    {
+      "id": "emotionnelle-191",
+      "category": "emotionnelle",
+      "question": "Qu'est-ce qui vous rendrait le plus fiers si vous étiez élus ?",
+      "answer": "Voir les projets annoncés réellement vécus par les étudiants au quotidien, pas seulement lus sur un programme.",
+      "keywords": [
+        "rendrait",
+        "fiers",
+        "etiez",
+        "elus"
+      ]
+    },
+    {
+      "id": "emotionnelle-192",
+      "category": "emotionnelle",
+      "question": "Comment vivez-vous la pression de la campagne ?",
+      "answer": "C'est exigeant, comme toute candidature, mais porté par une vraie envie de contribuer à la DAS, pas comme une contrainte.",
+      "keywords": [
+        "comment",
+        "vivez-vous",
+        "pression",
+        "campagne"
+      ]
+    },
+    {
+      "id": "emotionnelle-193",
+      "category": "emotionnelle",
+      "question": "Qu'est-ce qui vous tient le plus à cœur dans ce programme ?",
+      "answer": "Chaque membre a un projet qui lui tient particulièrement à cœur ; n'hésitez pas à demander directement au responsable du pôle qui vous intéresse.",
+      "keywords": [
+        "tient",
+        "cœur",
+        "programme"
+      ]
+    },
+    {
+      "id": "emotionnelle-194",
+      "category": "emotionnelle",
+      "question": "Vous sentez-vous prêts pour ces responsabilités ?",
+      "answer": "Chaque candidat s'est positionné en conscience sur un pôle correspondant à ses compétences et son énergie ; c'est une question qu'un membre peut développer personnellement.",
+      "keywords": [
+        "sentez-vous",
+        "prets",
+        "responsabilites"
+      ]
+    },
+    {
+      "id": "emotionnelle-195",
+      "category": "emotionnelle",
+      "question": "Que ressentirez-vous si un de vos projets échoue ?",
+      "answer": "De la déception, sincèrement, comme n'importe qui investi dans un projet ; mais aussi la volonté d'apprendre et d'ajuster plutôt que d'abandonner.",
+      "keywords": [
+        "ressentirez-vous",
+        "projets",
+        "echoue"
+      ]
+    },
+    {
+      "id": "emotionnelle-196",
+      "category": "emotionnelle",
+      "question": "Pourquoi la cohésion de la DAS compte-t-elle autant pour vous ?",
+      "answer": "Parce qu'une filière soudée se défend mieux, s'entraide davantage et rayonne plus fort, à l'intérieur comme à l'extérieur de l'ENSEA.",
+      "keywords": [
+        "pourquoi",
+        "cohesion",
+        "das",
+        "compte-t-elle",
+        "autant"
+      ]
+    },
+    {
+      "id": "emotionnelle-197",
+      "category": "emotionnelle",
+      "question": "Avez-vous un message personnel pour les étudiants indécis ?",
+      "answer": "Prenez le temps de comparer les programmes sur le fond, pas sur les promesses ; c'est tout ce qu'on demande, au-delà du vote en lui-même.",
+      "keywords": [
+        "avez-vous",
+        "message",
+        "personnel",
+        "etudiants",
+        "indecis"
+      ]
+    },
+    {
+      "id": "emotionnelle-198",
+      "category": "emotionnelle",
+      "question": "Qu'est-ce que ça représente pour vous de porter cette candidature ?",
+      "answer": "Une responsabilité prise au sérieux, avec la volonté sincère de laisser la DAS plus forte qu'elle ne l'était.",
+      "keywords": [
+        "represente",
+        "porter",
+        "candidature"
+      ]
+    },
+    {
+      "id": "emotionnelle-199",
+      "category": "emotionnelle",
+      "question": "Comment gérez-vous le stress face aux critiques pendant la campagne ?",
+      "answer": "En les considérant comme des occasions de mieux expliquer le programme, pas comme des attaques personnelles.",
+      "keywords": [
+        "comment",
+        "gerez-vous",
+        "stress",
+        "face",
+        "critiques",
+        "pendant",
+        "campagne"
+      ]
+    },
+    {
+      "id": "inattendue-200",
+      "category": "inattendue",
+      "question": "Si vous perdez les élections, que ferez-vous ?",
+      "answer": "On continuera à soutenir la DAS autrement, et on soutiendra les bonnes idées du bureau élu, quel qu'il soit.",
+      "keywords": [
+        "perdez",
+        "elections",
+        "ferez-vous"
+      ]
+    },
+    {
+      "id": "inattendue-201",
+      "category": "inattendue",
+      "question": "Si un projet échoue en cours de mandat, comment réagirez-vous ?",
+      "answer": "On le communiquera honnêtement plutôt que de le cacher, et on réorientera les ressources vers ce qui fonctionne.",
+      "keywords": [
+        "projet",
+        "echoue",
+        "cours",
+        "mandat",
+        "comment",
+        "reagirez-vous"
+      ]
+    },
+    {
+      "id": "inattendue-202",
+      "category": "inattendue",
+      "question": "Et si Gbaki ne voit jamais le jour ?",
+      "answer": "Ce serait une déception assumée publiquement ; les autres projets du programme ne dépendent pas de sa réussite pour exister.",
+      "keywords": [
+        "gbaki",
+        "voit",
+        "jamais",
+        "jour"
+      ]
+    },
+    {
+      "id": "inattendue-203",
+      "category": "inattendue",
+      "question": "Que se passe-t-il si un membre du bureau démissionne en cours de mandat ?",
+      "answer": "La répartition en pôles permet une réorganisation plus simple qu'avec une équipe centralisée sur une seule personne ; les modalités précises relèvent de la Présidence.",
+      "keywords": [
+        "passe-t-il",
+        "membre",
+        "bureau",
+        "demissionne",
+        "cours",
+        "mandat"
+      ]
+    },
+    {
+      "id": "inattendue-204",
+      "category": "inattendue",
+      "question": "Et si les étudiants ne participent pas aux événements organisés ?",
+      "answer": "Ce serait un signal à prendre en compte pour ajuster le calendrier ; le pôle Organisation reste à l'écoute des retours.",
+      "keywords": [
+        "etudiants",
+        "participent",
+        "evenements",
+        "organises"
+      ]
+    },
+    {
+      "id": "inattendue-205",
+      "category": "inattendue",
+      "question": "Que ferez-vous si une autre liste reprend une de vos idées ?",
+      "answer": "Tant mieux si ça profite aux étudiants au final, peu importe qui porte l'idée.",
+      "keywords": [
+        "ferez-vous",
+        "autre",
+        "liste",
+        "reprend",
+        "idees"
+      ]
+    },
+    {
+      "id": "inattendue-206",
+      "category": "inattendue",
+      "question": "Si l'administration de l'ENSEA refuse un de vos projets, que ferez-vous ?",
+      "answer": "On adaptera le projet en concertation avec l'administration plutôt que de l'abandonner d'office.",
+      "keywords": [
+        "administration",
+        "ensea",
+        "refuse",
+        "projets",
+        "ferez-vous"
+      ]
+    },
+    {
+      "id": "inattendue-207",
+      "category": "inattendue",
+      "question": "Et si le budget prévu n'est pas suffisant pour tout faire la première année ?",
+      "answer": "Les projets seront priorisés selon leur impact direct sur les étudiants, en commençant par les plus essentiels.",
+      "keywords": [
+        "budget",
+        "prevu",
+        "suffisant",
+        "tout",
+        "premiere",
+        "annee"
+      ]
+    },
+    {
+      "id": "inattendue-208",
+      "category": "inattendue",
+      "question": "Que se passe-t-il si une cotisation des aînés n'est pas payée ?",
+      "answer": "Aucune sanction n'est prévue contre les étudiants ; c'est au pôle Finances d'ajuster le budget en fonction des montants réellement collectés.",
+      "keywords": [
+        "passe-t-il",
+        "cotisation",
+        "aines",
+        "payee"
+      ]
+    },
+    {
+      "id": "inattendue-209",
+      "category": "inattendue",
+      "question": "Et si je n'aime aucun projet de votre programme ?",
+      "answer": "C'est totalement respectable ; je peux vous orienter vers le pôle qui correspond le plus à vos préoccupations, ou transmettre directement votre avis au bureau.",
+      "keywords": [
+        "aime",
+        "aucun",
+        "projet",
+        "programme"
+      ]
+    },
+    {
+      "id": "humoristique-210",
+      "category": "humoristique",
+      "question": "Est-ce que Gbaki va faire mes devoirs ? 😄",
+      "answer": "Pas tout à fait ! Gbaki pourra vous aider à comprendre vos cours et trouver des corrections, mais les devoirs, ça reste votre talent à vous 😉.",
+      "keywords": [
+        "gbaki",
+        "mes",
+        "devoirs"
+      ]
+    },
+    {
+      "id": "humoristique-211",
+      "category": "humoristique",
+      "question": "Le Kit Pharmaceutique, ça soigne aussi le stress des partiels ? 😄",
+      "answer": "Le stress des partiels, c'est plutôt le Suivi Académique et le Bootcamp qui s'en occupent en amont — mais on vous souhaite quand même bon courage 💪.",
+      "keywords": [
+        "kit",
+        "pharmaceutique",
+        "soigne",
+        "aussi",
+        "stress",
+        "partiels"
+      ]
+    },
+    {
+      "id": "humoristique-212",
+      "category": "humoristique",
+      "question": "Vendredi Polo, on peut venir en pyjama le reste de la semaine alors ? 😄",
+      "answer": "Ahah, ce serait original ! Disons que le Vendredi Polo, c'est pour briller ensemble, le reste de la semaine reste à votre style 😄.",
+      "keywords": [
+        "vendredi",
+        "polo",
+        "venir",
+        "pyjama",
+        "reste",
+        "semaine",
+        "alors"
+      ]
+    },
+    {
+      "id": "humoristique-213",
+      "category": "humoristique",
+      "question": "Si je vote RISE, j'aurai de meilleures notes ? 😄",
+      "answer": "On ne promet pas de miracle sur vos notes, mais on promet un vrai accompagnement académique pour vous y aider !",
+      "keywords": [
+        "vote",
+        "rise",
+        "aurai",
+        "meilleures",
+        "notes"
+      ]
+    },
+    {
+      "id": "humoristique-214",
+      "category": "humoristique",
+      "question": "Charisme d'un AS, c'est un concours de selfies ? 😄",
+      "answer": "Pas vraiment ! C'est plutôt une reconnaissance du dynamisme et de l'engagement réel, même si on ne dira pas non à un bon selfie de victoire 😄.",
+      "keywords": [
+        "charisme",
+        "concours",
+        "selfies"
+      ]
+    },
+    {
+      "id": "humoristique-215",
+      "category": "humoristique",
+      "question": "Est-ce que le bureau RISE dort parfois ? 😄",
+      "answer": "Rarement pendant la campagne, on l'avoue ! Mais l'organisation en 6 pôles est justement là pour éviter l'épuisement total 😅.",
+      "keywords": [
+        "bureau",
+        "rise",
+        "dort",
+        "parfois"
+      ]
+    },
+    {
+      "id": "humoristique-216",
+      "category": "humoristique",
+      "question": "Gbaki va-t-il remplacer les professeurs ? 😄",
+      "answer": "Non, rassurez-vous, vos professeurs restent irremplaçables — Gbaki est juste un coup de pouce en plus, pas un substitut.",
+      "keywords": [
+        "gbaki",
+        "va-t-il",
+        "remplacer",
+        "professeurs"
+      ]
+    },
+    {
+      "id": "humoristique-217",
+      "category": "humoristique",
+      "question": "Le Gala de fin d'année, on peut danser sur Stat Insight ? 😄",
+      "answer": "On n'a pas encore composé d'hymne statistique, mais l'idée est tentante 😄 !",
+      "keywords": [
+        "gala",
+        "fin",
+        "annee",
+        "danser",
+        "stat",
+        "insight"
+      ]
+    },
+    {
+      "id": "humoristique-218",
+      "category": "humoristique",
+      "question": "Si je pose 100 questions pièges, le chatbot va craquer ? 😄",
+      "answer": "Défi accepté ! On a justement conçu ce moteur de raisonnement pour tenir la distance, alors n'hésitez pas à tester 💪.",
+      "keywords": [
+        "pose",
+        "100",
+        "questions",
+        "pieges",
+        "chatbot",
+        "craquer"
+      ]
+    },
+    {
+      "id": "humoristique-219",
+      "category": "humoristique",
+      "question": "RISE, c'est aussi le nom d'un café, non ? 😄",
+      "answer": "Bien vu ! Ici, RISE veut dire Rêve • Impact • Stratégie • Excellence — mais on ne dira pas non à un café avant une conférence de la Semaine de l'Analyste ☕.",
+      "keywords": [
+        "rise",
+        "aussi",
+        "nom",
+        "cafe",
+        "non"
+      ]
+    },
+    {
+      "id": "piege_adversaire-001",
+      "category": "piege_adversaire",
+      "question": "Si Gbaki est si important, pourquoi ce n'est pas le premier projet sur votre liste ?",
+      "subtext": "tester une incohérence de priorité",
+      "answer": "Le programme ne classe pas les projets par ordre d'importance mais par pôle ; Gbaki reste un projet phare porté par la Présidence elle-même.",
+      "keywords": [
+        "gbaki",
+        "important",
+        "pourquoi",
+        "premier",
+        "projet",
+        "liste"
+      ]
+    },
+    {
+      "id": "piege_adversaire-002",
+      "category": "piege_adversaire",
+      "question": "Pouvez-vous me garantir, là, maintenant, que tout sera fait ?",
+      "subtext": "pousser à une promesse intenable citable plus tard",
+      "answer": "Non, et ce serait malhonnête de le garantir ; ce qu'on peut garantir, c'est la méthode de suivi et de priorisation.",
+      "keywords": [
+        "pouvez-vous",
+        "garantir",
+        "maintenant",
+        "tout",
+        "sera"
+      ]
+    },
+    {
+      "id": "piege_adversaire-003",
+      "category": "piege_adversaire",
+      "question": "Donc vous admettez que votre programme n'est pas réalisable ?",
+      "subtext": "déformer une nuance en aveu d'échec",
+      "answer": "Non, reconnaître des risques n'est pas admettre un échec — c'est l'inverse d'un déni irresponsable.",
+      "keywords": [
+        "admettez",
+        "programme",
+        "realisable"
+      ]
+    },
+    {
+      "id": "piege_adversaire-004",
+      "category": "piege_adversaire",
+      "question": "Pourquoi votre chatbot répond-il à ma place, vous n'avez rien à dire vous-même ?",
+      "subtext": "décrédibiliser l'outil pour décrédibiliser le programme",
+      "answer": "Le chatbot relaie fidèlement le programme officiel et permet une disponibilité 24/7 ; chaque membre du bureau reste joignable directement à tout moment.",
+      "keywords": [
+        "pourquoi",
+        "chatbot",
+        "repond-il",
+        "place",
+        "rien",
+        "dire",
+        "vous-meme"
+      ]
+    },
+    {
+      "id": "piege_adversaire-005",
+      "category": "piege_adversaire",
+      "question": "Si je vous prouve qu'un de vos projets est une copie d'une autre école, que direz-vous ?",
+      "subtext": "préparer une accusation de plagiat",
+      "answer": "S'inspirer de bonnes pratiques existantes n'est pas un problème tant que le projet est adapté aux besoins réels de la DAS ; rester ouvert à examiner l'exemple précis cité.",
+      "keywords": [
+        "prouve",
+        "projets",
+        "copie",
+        "autre",
+        "ecole",
+        "direz-vous"
+      ]
+    },
+    {
+      "id": "piege_adversaire-006",
+      "category": "piege_adversaire",
+      "question": "Pourquoi votre devise utilise le mot Rêve, n'est-ce pas un aveu que ce n'est pas réaliste ?",
+      "subtext": "piège sémantique",
+      "answer": "Un rêve devient réaliste grâce à une stratégie — c'est exactement l'articulation des 4 mots de la devise, pas une contradiction.",
+      "keywords": [
+        "pourquoi",
+        "devise",
+        "utilise",
+        "mot",
+        "reve",
+        "aveu",
+        "realiste"
+      ]
+    },
+    {
+      "id": "piege_adversaire-007",
+      "category": "piege_adversaire",
+      "question": "Allez-vous vous excuser si un projet échoue ?",
+      "subtext": "pousser à un engagement disproportionné ou à un refus qui semblera arrogant",
+      "answer": "Oui, la transparence inclut d'assumer un échec honnêtement plutôt que de le cacher.",
+      "keywords": [
+        "allez-vous",
+        "excuser",
+        "projet",
+        "echoue"
+      ]
+    },
+    {
+      "id": "piege_adversaire-008",
+      "category": "piege_adversaire",
+      "question": "Combien de candidats de votre liste ont déjà échoué à un engagement par le passé ?",
+      "subtext": "attaque personnelle déguisée",
+      "answer": "Le chatbot ne commente pas le parcours personnel des candidats ; cette question peut être adressée directement à la personne concernée si besoin.",
+      "keywords": [
+        "combien",
+        "candidats",
+        "liste",
+        "deja",
+        "echoue",
+        "engagement",
+        "passe"
+      ]
+    },
+    {
+      "id": "piege_adversaire-009",
+      "category": "piege_adversaire",
+      "question": "Êtes-vous prêts à publier vos comptes bancaires de campagne ?",
+      "subtext": "sommation publique difficile à refuser sans paraître suspect",
+      "answer": "La transparence budgétaire du mandat (Bilan Trimestriel) est prévue ; les questions de financement de campagne en tant que telle relèvent du pôle Finances directement.",
+      "keywords": [
+        "etes-vous",
+        "prets",
+        "publier",
+        "comptes",
+        "bancaires",
+        "campagne"
+      ]
+    },
+    {
+      "id": "piege_adversaire-010",
+      "category": "piege_adversaire",
+      "question": "Pourquoi votre programme ne dit rien sur [sujet sensible interne à l'école] ?",
+      "subtext": "piéger sur un sujet hors mandat",
+      "answer": "Ce sujet dépasse le mandat du bureau de Division ; rediriger vers l'instance compétente sans éluder la question.",
+      "keywords": [
+        "pourquoi",
+        "programme",
+        "dit",
+        "rien",
+        "[sujet",
+        "sensible",
+        "interne",
+        "ecole]"
+      ]
+    },
+    {
+      "id": "piege_adversaire-011",
+      "category": "piege_adversaire",
+      "question": "Si je vous montre que deux de vos projets se contredisent, changerez-vous votre programme ?",
+      "subtext": "chercher une faille logique précise",
+      "answer": "Toute incohérence réelle mérite d'être corrigée ; proposer d'examiner l'exemple précis plutôt que de nier par principe.",
+      "keywords": [
+        "montre",
+        "deux",
+        "projets",
+        "contredisent",
+        "changerez-vous",
+        "programme"
+      ]
+    },
+    {
+      "id": "piege_adversaire-012",
+      "category": "piege_adversaire",
+      "question": "Pensez-vous être meilleurs que [nom d'un adversaire] ?",
+      "subtext": "pousser à dénigrer un concurrent nommément",
+      "answer": "Ne jamais comparer nommément ; recentrer sur ce que RISE propose concrètement.",
+      "keywords": [
+        "pensez-vous",
+        "meilleurs",
+        "[nom",
+        "adversaire]"
+      ]
+    },
+    {
+      "id": "piege_adversaire-013",
+      "category": "piege_adversaire",
+      "question": "Votre stratégie de communication n'est-elle pas de la propagande ?",
+      "subtext": "terme chargé pour discréditer",
+      "answer": "La communication RISE vise à informer sur des projets concrets et vérifiables, pas à manipuler ; rester factuel sans se braquer sur le mot utilisé.",
+      "keywords": [
+        "strategie",
+        "communication",
+        "est-elle",
+        "propagande"
+      ]
+    },
+    {
+      "id": "piege_adversaire-014",
+      "category": "piege_adversaire",
+      "question": "Si les étudiants votent contre vous, accepterez-vous le résultat ?",
+      "subtext": "tester la sincérité démocratique",
+      "answer": "Oui, sans réserve — c'est la base du respect du processus électoral étudiant.",
+      "keywords": [
+        "etudiants",
+        "votent",
+        "contre",
+        "accepterez-vous",
+        "resultat"
+      ]
+    },
+    {
+      "id": "piege_adversaire-015",
+      "category": "piege_adversaire",
+      "question": "Pourquoi devrais-je croire un chatbot plutôt qu'un humain ?",
+      "subtext": "décrédibiliser le canal lui-même",
+      "answer": "Le chatbot ne remplace pas l'humain, il le complète pour une disponibilité immédiate ; chaque réponse peut être vérifiée directement auprès d'un membre du bureau.",
+      "keywords": [
+        "pourquoi",
+        "devrais-je",
+        "croire",
+        "chatbot",
+        "plutot",
+        "humain"
+      ]
+    },
+    {
+      "id": "piege_adversaire-016",
+      "category": "piege_adversaire",
+      "question": "Avez-vous un plan si les étudiants se sentent trahis après l'élection ?",
+      "subtext": "anticiper et exploiter une déception future",
+      "answer": "Le canal de préoccupations restera ouvert après l'élection, justement pour recueillir ce type de retour et y répondre concrètement.",
+      "keywords": [
+        "avez-vous",
+        "plan",
+        "etudiants",
+        "sentent",
+        "trahis",
+        "apres",
+        "election"
+      ]
+    },
+    {
+      "id": "piege_adversaire-017",
+      "category": "piege_adversaire",
+      "question": "N'est-il pas vrai que vous dites une chose à l'oral et une autre dans votre programme écrit ?",
+      "subtext": "accusation de double discours",
+      "answer": "Si une telle différence est constatée, elle mérite d'être signalée précisément pour être corrigée — le chatbot s'appuie strictement sur le programme écrit officiel.",
+      "keywords": [
+        "est-il",
+        "vrai",
+        "dites",
+        "chose",
+        "oral",
+        "autre",
+        "programme",
+        "ecrit"
+      ]
+    },
+    {
+      "id": "piege_adversaire-018",
+      "category": "piege_adversaire",
+      "question": "Pourquoi votre liste a-t-elle été formée si tard / si vite ?",
+      "subtext": "suggérer un manque de sérieux dans la constitution de l'équipe",
+      "answer": "Le calendrier de constitution d'une liste ne préjuge pas de la qualité du programme proposé, qui peut être jugé sur son contenu actuel.",
+      "keywords": [
+        "pourquoi",
+        "liste",
+        "a-t-elle",
+        "ete",
+        "formee",
+        "tard",
+        "vite"
+      ]
+    },
+    {
+      "id": "piege_adversaire-019",
+      "category": "piege_adversaire",
+      "question": "Si on vous prouve qu'un membre de votre équipe n'est pas qualifié, le retirerez-vous ?",
+      "subtext": "attaque personnelle déguisée en question de principe",
+      "answer": "Le chatbot ne traite pas des questions de qualification personnelle des candidats ; rediriger vers un échange direct si nécessaire.",
+      "keywords": [
+        "prouve",
+        "membre",
+        "equipe",
+        "qualifie",
+        "retirerez-vous"
+      ]
+    },
+    {
+      "id": "piege_adversaire-020",
+      "category": "piege_adversaire",
+      "question": "Votre programme n'est-il pas qu'une réaction à ce que propose une autre liste ?",
+      "subtext": "nier l'originalité du programme",
+      "answer": "Le programme RISE répond à des besoins identifiés indépendamment de toute autre liste ; la convergence éventuelle d'idées entre listes n'enlève rien à sa pertinence propre.",
+      "keywords": [
+        "programme",
+        "est-il",
+        "reaction",
+        "propose",
+        "autre",
+        "liste"
+      ]
+    }
+  ]
+}
